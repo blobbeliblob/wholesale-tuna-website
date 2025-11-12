@@ -4,7 +4,7 @@ import { albums } from "../data/albums";
 
 export default function Home() {
   return (
-  <div className="min-h-screen bg-zinc-900 text-zinc-200">
+  <div className="min-h-screen text-zinc-200">
       <main className="mx-auto max-w-3xl p-8">
         <header className="mb-8">
           <h1 className="text-4xl font-bold">Wholesale Tuna</h1>
