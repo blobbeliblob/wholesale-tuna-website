@@ -11,7 +11,7 @@ export default function Home() {
           <p className="text-zinc-400">Lyrics and cover art.</p>
         </header>
 
-        <section className="grid grid-cols-1 gap-6 sm:grid-cols-2">
+        <section className="grid grid-cols-2 md:grid-cols-3 gap-6">
           {albums.map((a) => (
             <article key={a.slug} className="rounded-lg border border-zinc-700 bg-zinc-800 p-4">
               <Link href={`/albums/${a.slug}`} className="flex flex-col items-start gap-4">
@@ -24,8 +24,6 @@ export default function Home() {
             </article>
           ))}
         </section>
-
-        <footer className="mt-12 text-sm text-zinc-400">Built with Next.js • Static export ready for GitHub Pages</footer>
       </main>
     </div>
   );

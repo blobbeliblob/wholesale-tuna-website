@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Lato } from "next/font/google";
 import "./globals.css";
+import { site } from "../data/site";
 
 const lato = Lato({
   weight: ["400", "700"],
@@ -20,8 +21,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className={`${lato.variable} antialiased`}>
-        {children}
+      <body className={`${lato.variable} antialiased min-h-screen flex flex-col`}>
+        <main className="flex-grow">
+          {children}
+        </main>
+
+        <footer className="site-footer mt-8 border-t border-zinc-800 text-zinc-400 text-sm py-6 px-4 text-center">
+          © {new Date().getFullYear()} {site.author}. All rights reserved.
+        </footer>
       </body>
     </html>
   );

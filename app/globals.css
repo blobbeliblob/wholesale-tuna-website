@@ -4,12 +4,17 @@
   --background: #0a0a0a;
   --foreground: #e6e6e6;
   --font-lato: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Segoe UI Mono", monospace;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-lato);
+}
+
+body {
+  font-size: 15px;
 }
 
 details {
@@ -30,3 +35,29 @@ summary::-webkit-details-marker {
   display: none;
 }
 
+*::-webkit-scrollbar {
+  width: 10px;
+  height: 10px;
+}
+*::-webkit-scrollbar-track {
+  background: #071018;
+}
+*::-webkit-scrollbar-thumb {
+  background: #2f3740;
+  border-radius: 8px;
+  border: 2px solid #071018;
+}
+
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #2f3740 #071018;
+}
+
+summary {
+  font-size: 1.05rem;
+}
+
+.site-footer {
+  background: var(--background);
+  color: var(--foreground);
+}
