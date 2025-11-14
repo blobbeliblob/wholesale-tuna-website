@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "cross-env NEXT_PUBLIC_BASE_PATH= next build",
+    "build": "cross-env NEXT_PUBLIC_BASE_PATH= next build && node scripts/post-build.js",
     "start": "next start",
     "deploy": "npm run build && gh-pages -d out",
     "lint": "eslint",
