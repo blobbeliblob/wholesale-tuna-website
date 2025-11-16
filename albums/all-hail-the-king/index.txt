@@ -1,0 +1,377 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/79e17a59776cbefa.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.eead68dd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.0e564e6e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"P6Jsp3jffPC_fwvI9jZ0H","c":["","albums","all-hail-the-king",""],"q":"","i":false,"f":[[["",{"children":["albums",{"children":[["slug","all-hail-the-king","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/79e17a59776cbefa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"lato_1a86c0ae-module__mfF6kG__variable antialiased min-h-screen flex flex-col","children":[["$","main",null,{"className":"flex-grow","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer border-t border-zinc-800 text-zinc-400 text-sm py-6 px-4 text-center","children":["© ",2025," ","Camilo Hernández Nyreen",". All rights reserved."]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/dd6ebbdfa5cd8464.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$@9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$@b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[22016,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],""]
+e:T517,
+    with the scenery passing by
+    I have to change my point of view 
+    laying down, see the planets fly
+    so move over Satan, here I'm coming through 
+
+    the light refracting telescope
+    shows craters on the moon
+    as Ganymede bears our hope
+    in orbit, witches on their brooms
+
+    Galileo Galilei
+    through his window frame
+    looked at the stars
+    saw the milky way
+
+    Galileo Galilei
+    went against the faith
+    waged a holy war
+    and almost burned at the stake
+
+    with the earth no longer steady
+    at the center of the universe
+    stand before the inquisition
+    disprove the truth you've seen reversed
+
+    as the world turns heliocentric
+    set the stage up for astronomy
+    are the pillars of creation
+    nothing more than just a fantasy
+
+    Galileo Galilei
+    through his window frame
+    looked at the stars
+    saw the milky way
+
+    Galileo Galilei
+    went against the faith
+    waged a holy war
+    and almost burned at the stake
+
+    Galileo Galilei
+    through his window frame
+    looked at the stars
+    saw the milky way
+
+    Galileo Galilei
+    went against the faith
+    waged a holy war
+    and almost burned at the stake
+
+    paa pa paa paa
+    paa pa pa paa
+
+    ga ga ga Galileo (Galileo Galilei)
+    ga ga ga Galileo (Galileo Galilei)
+    f:T6e7,
+    take me in your time machine 
+    to places where I've never been 
+    the further we go
+    the less we will know
+
+    a dying world of suffering
+    that's crumbling under foolish kings
+    but buildings of gold
+    stood no weight they could hold
+
+    we set out on an epic quest
+    to rid the world of all unrest
+    we struck an accord
+    I gave you my sword
+
+    a pantheon of worship past
+    an ancient scroll, a charm to cast
+    to cull the weak minded
+    and leave their souls branded
+
+    shed away 
+    the curse of the living 
+    to become 
+    yet another false god
+
+    a twisted curse, a maiden fair
+    a promise kept, an oath to share
+    we sat round the table
+    and weaved up the fables
+
+    the silent words that leave no sound
+    but crimson leaves upon the ground
+    the prophecy foretold
+    a new king on the throne
+
+    bled away 
+    the flesh they were given 
+    as they found 
+    you were naught but a fraud
+
+    past the dragon's ascent
+    when the hour drew near
+    one last fleeting look back
+    at all the things we held dear
+
+    at the peak of the summit
+    where the earth and sky meet
+    as we braced for the battle
+    and held strong our beliefs
+
+    but as we laid in trenches 
+    and we challenged the beast
+    you were conveniently missing
+    to partake in the feast
+
+    now the lights in the castle
+    and all the stars in the sky
+    have faded to nothing
+    as she says her goodbyes
+
+    leave behind
+    all those dreams and ambitions
+    what a clown
+    to have taken the throne
+
+    in your mind
+    you're fulfilling your vision
+    while your hounds
+    rip the skin off our bones
+
+    to the blind
+    all your sins are forgiven 
+    claim your crown
+    now you're king of the fools
+    4:["$","div",null,{"className":"min-h-screen text-zinc-200","children":["$","main",null,{"className":"mx-auto max-w-3xl p-8","children":[["$","$Ld",null,{"href":"/","className":"text-zinc-300 hover:underline","children":"← Back"}],["$","section",null,{"className":"mt-6","children":["$","div",null,{"className":"grid gap-4 lg:grid-cols-3","children":[["$","div",null,{"className":"lg:col-span-2 space-y-4","children":[["$","details","urban-native",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Urban Native"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    desire\n    little kids are caught in the crossfire\n    people conflate the want to possess\n    with sense of belonging, want to impress\n\n    out in the jungle\n    out on the streets\n    people struggling\n    to stay on their feet\n\n    as they stumble\n    walls abrasive\n    concrete jungle\n    urban natives\n\n    time\n    constantly craving the lime\n    living your prime it's so sour\n    ageing three years by the hour\n\n    morning news\n    crimes of hate\n    small decisions\n    carry weight\n\n    pillars crumble\n    heroes fall\n    concrete jungle\n    swallows all\n    "}]]}],["$","details","galileo-galilei",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Galileo Galilei"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$e"}]]}],["$","details","king-of-the-fools",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"King of the Fools"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$f"}]]}],"$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}],"$L19"]}]}]]}]}]
+1e:I[5500,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],"Image"]
+1a:T46a,
+    have you seen the dogs of war
+    stand atop that crested hill
+    coming down, a thunderous plague
+    we run for shelter, steel our will
+
+    the dogs of war
+    seize the day, and claim it all
+    without cause
+    hear the whistle, heed the call
+
+    tearing through what lies before them
+    desecrating holy ground
+    leaving none within their wake
+    none but these ferocious hounds
+
+    the dogs of war
+    giants that have learnt to fly
+    spoil the land for years to come
+    dragons that command the skies
+
+    what they think, it doesn't matter
+    serve their head up on a platter
+    blood and dirt, the gold they hoard
+    they feed the wallet of their lord
+
+    addicts of the holy water
+    preach their faith, there is no other
+    harvest children, ripe for slaughter
+    milk the sons and sell the daughters
+
+    for the people's satisfaction
+    consequences of their actions
+    never practice what they preach
+    their happiness stays out of reach
+
+    march themselves into the grave
+    existence is nothing but torture
+    all the people they won't save
+    money talks, soldiers of fortune
+    10:["$","details","dogs-of-war",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"The Dogs of War"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$1a"}]]}]
+1b:T60a,
+    the scene before us, mud and grey
+    lit up by flames and clear as day
+    the biting cold, our frozen breaths
+    what lingers here, the scent of death
+
+    all around us 
+    our brethren die
+    eyes focused forward
+    we hear their cries
+
+    can't you see it's suicidal
+    passing through the woods at night
+    but as of now, it's pure survival
+    stray the path and pay the price
+
+    we sought to revive our greatness gone
+    when evil arrived, we opened the door
+    it indulged in our primal fears
+    we pushed out brothers, far and near
+
+    abandon all hope
+    desert the fight
+    for here before us
+    unbudging might
+
+    can't you see it's suicidal
+    passing through the woods at night
+    but as of now, it's pure survival
+    stray the path and pay the price
+
+    fighting 'til the last drop
+    even though we know
+    they sacrificed us
+    just as we were told
+    by our messiah
+    never did we question
+    how the fool
+    somehow got us here
+    now everything we knew is 
+    swallowed by fire
+
+    and on my mother's grave
+    I swear that we look just the same
+    still here we are 
+    ordered to kill each other 
+    I'll die a slave, a martyr not
+    an unmarked stone, that's soon forgot
+    while Ozymandias memory fades out
+    buried in the sand
+
+    fighting 'til the last drop
+    even though we know
+    they sacrificed us
+    just as we were told
+    by our messiah
+    never did we question
+    how the fool
+    somehow got us here
+    now everything we knew is 
+    swallowed by fire
+    11:["$","details","ozymandias",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Ozymandias"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$1b"}]]}]
+1c:T4dd,
+    the day I learnt about the bomb
+    a ripple in the plastic sea
+    a tower on a field of rooks
+    that could distort reality
+
+    my mother took me to the shrine
+    to glance upon the sacred metal
+    within the sheltered concrete cave
+    a garden full of poison petals
+
+    the dream snatchers
+    have come for me
+    they want to take
+    my liberty
+
+    the howling of a distant scream
+    a spreading silence filled with tension
+    slipping through the growing cracks
+    a peace without renewed extension
+
+    the dust that took my brother's lungs
+    the smatter of the scorching rain
+    I peeked out from my hiding spot
+    the city, now a sea of flames
+
+    the dream snatchers
+    they will survive
+    they left us here
+    to burn alive
+
+    we struggled to confront the weight
+    of everything that's come to pass
+    remembering the better days
+    without this choking toxic gas
+
+    the crops that perished on the fields
+    the sun that ripped with burning claws
+    this frightful power that we wielded
+    left us blind to our own flaws
+
+    dream snatchers
+    what can we do
+    when noone's left
+    but just us two
+
+    the dream snatchers
+    are we the same
+    to close our eyes
+    and shift the blame
+    12:["$","details","dreamsnatchers",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"The Dreamsnatchers"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$1c"}]]}]
+13:["$","details","blood-transfusion",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Blood Transfusion"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    tasked with finding new resources\n    fresh supplies are running dry\n    all the conflict sours the taste\n    without new blood our race will die\n\n    we study all the ancient rites\n    and go against the flow of fate\n    technology will bear our hopes\n    we gamble with our lives at stake\n\n    blood transfusion\n    pore diffusion\n    soul dilution\n    execution\n\n    nuclear fusion\n    false conclusions\n    mass confusion\n    disillusion\n\n    one degree below extinction\n    struggling to express concern\n    the planet treated like a playground\n    drop our toys, the world will burn\n\n    facing now the consequences\n    the trees are grey, the soil is dead\n    humans cannot feed us more\n    exterminate them, cut their heads\n\n    air pollution\n    truth occlusion\n    life intrusion\n    persecution\n\n    no solution\n    prostitution\n    resolution\n    revolution\n    "}]]}]
+1d:T5bc,
+    take me
+    to the edges of the world
+    take me
+    into the embrace of that girl
+    take me
+    where the flowers have no name
+    la la la la la la la la la
+
+    wake me
+    from this dream I call my home
+    wake me
+    from this fondness that I've grown
+    wake me
+    before I burst out into flames
+    la la la la la la la la la
+
+    the days
+    when all our future feelings were decided
+    and places
+    where celestial beings coincided
+    the ways
+    I thought beginnings reached their end
+    only to blossom out again
+    and in your gaze
+    I chose to stay
+
+    lately
+    I've been waiting for your calls
+    faintly 
+    picture us, forevermore 
+    maybe 
+    from the moment we became 
+    la la la la la la la la la
+
+    the days
+    when all our future feelings were decided
+    and places
+    where celestial beings coincided
+    the ways
+    I thought beginnings reached their end
+    only to blossom out again
+    and in your gaze
+    I chose to stay
+
+    the days
+    when all our future feelings were decided
+    and places
+    where celestial beings coincided
+    the ways
+    I thought beginnings reached their end
+    only to blossom out again
+    and in your gaze
+    I chose to stay
+
+    the days
+    when all our future feelings were decided
+    and places
+    where celestial beings coincided
+    the ways
+    I thought beginnings reached their end
+    only to blossom out again
+    and in your gaze
+    I chose to stay
+    14:["$","details","take-me",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Take Me"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$1d"}]]}]
+15:["$","details","ay-ay-ay",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Ay Ay Ay"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    nada ya nada\n    en ríos helados\n    nada ya vive\n    en forma pescado\n    hombres de plata\n    deshidratados\n    tesoro de oro\n    desenterrado\n\n    ay ay ay\n    ay ay ay\n\n    nadie persigue\n    los involucrados\n    quien llorará \n    por los maltratados\n    almas oscuras\n    manos amarradas\n    ya nadie recuerda\n    tu significado \n\n    ay ay ay\n    ay ay ay\n\n    todo termina\n    en tratos secretos\n    otras verdades\n    viven tus sujetos\n    sueltan los perros\n    a ver que se escapen\n    sangre de héroes \n    las muertes salvajes\n\n    ay ay ay\n    ay ay ay \n    "}]]}]
+16:["$","details","over-our-heads",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Over Our Heads"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    go wait inside my love\n    don't look outside \n    it's just the planes above \n    dropping bombs over our heads \n\n    come closer, hold my hand \n    it will be alright \n    think of the flower fields\n    and I'll see you there\n    "}]]}]
+17:["$","details","arachnids",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Arachnids"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    [Instrumental]\n    "}]]}]
+18:["$","details","must-we-stay-here-in-the-shadows",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Must We Stay Here, in the Shadows?"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    must we stay here in the shadows\n    once the earth's core has gone cold?\n    feel our souls forget their luster\n    shrivel up, covered in mold\n\n    through the hills, where rivers red flow\n    where tomorrow will unfold\n    in the sunset, lost the day glow\n    and in time, we'll too grow old\n\n    so step outside \n    step outside, into the sunlight \n    and the sunlight is so bright \n    that our light skin turns to dust\n\n    must we stay here in the shadows\n    can I claim this treasure boldly?\n    with the courage I may muster\n    for this chest made out of gold\n    "}]]}]
+1f:T654,M23.994 6.124a9.23 9.23 0 00-.24-2.19c-.317-1.31-1.062-2.31-2.18-3.043a5.022 5.022 0 00-1.877-.726 10.496 10.496 0 00-1.564-.15c-.04-.003-.083-.01-.124-.013H5.986c-.152.01-.303.017-.455.026-.747.043-1.49.123-2.193.4-1.336.53-2.3 1.452-2.865 2.78-.192.448-.292.925-.363 1.408-.056.392-.088.785-.1 1.18 0 .032-.007.062-.01.093v12.223c.01.14.017.283.027.424.05.815.154 1.624.497 2.373.65 1.42 1.738 2.353 3.234 2.801.42.127.856.187 1.293.228.555.053 1.11.06 1.667.06h11.03a12.5 12.5 0 001.57-.1c.822-.106 1.596-.35 2.295-.81a5.046 5.046 0 001.88-2.207c.186-.42.293-.87.37-1.324.113-.675.138-1.358.137-2.04-.002-3.8 0-7.595-.003-11.393zm-6.423 3.99v5.712c0 .417-.058.827-.244 1.206-.29.59-.76.962-1.388 1.14-.35.1-.706.157-1.07.173-.95.045-1.773-.6-1.943-1.536a1.88 1.88 0 011.038-2.022c.323-.16.67-.25 1.018-.324.378-.082.758-.153 1.134-.24.274-.063.457-.23.51-.516a.904.904 0 00.02-.193c0-1.815 0-3.63-.002-5.443a.725.725 0 00-.026-.185c-.04-.15-.15-.243-.304-.234-.16.01-.318.035-.475.066-.76.15-1.52.303-2.28.456l-2.325.47-1.374.278c-.016.003-.032.01-.048.013-.277.077-.377.203-.39.49-.002.042 0 .086 0 .13-.002 2.602 0 5.204-.003 7.805 0 .42-.047.836-.215 1.227-.278.64-.77 1.04-1.434 1.233-.35.1-.71.16-1.075.172-.96.036-1.755-.6-1.92-1.544-.14-.812.23-1.685 1.154-2.075.357-.15.73-.232 1.108-.31.287-.06.575-.116.86-.177.383-.083.583-.323.6-.714v-.15c0-2.96 0-5.922.002-8.882 0-.123.013-.25.042-.37.07-.285.273-.448.546-.518.255-.066.515-.112.774-.165.733-.15 1.466-.296 2.2-.444l2.27-.46c.67-.134 1.34-.27 2.01-.403.22-.043.442-.088.663-.106.31-.025.523.17.554.482.008.073.012.148.012.223.002 1.91.002 3.822 0 5.732z19:["$","aside",null,{"className":"lg:col-span-1 rounded-md border border-zinc-700 p-4 bg-zinc-800","children":[["$","$L1e",null,{"src":"/albums/all_hail_the_king.png","alt":"All Hail The King cover","width":600,"height":600}],["$","h2",null,{"className":"mt-4 text-2xl font-bold text-zinc-100","children":"All Hail The King"}],["$","div",null,{"className":"text-zinc-400","children":2025}],["$","div",null,{"className":"mt-4","children":[["$","h3",null,{"className":"text-sm font-semibold text-zinc-300","children":"Listen"}],["$","div",null,{"className":"mt-2 flex flex-wrap items-center gap-3","children":[["$","a","Spotify",{"href":"https://open.spotify.com/artist/04435ueRTaxUQmsiBoWocT","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 px-3 py-2 bg-zinc-900 border border-zinc-700 rounded text-zinc-100 hover:bg-zinc-800","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","role":"img","viewBox":"0 0 24 24","className":"w-4 h-4 text-[#1DB954]","aria-hidden":true,"children":["$undefined",[["$","path","0",{"d":"M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],["$","span",null,{"className":"text-sm","children":"Spotify"}]]}],["$","a","Apple Music",{"href":"https://music.apple.com/artist/wholesale-tuna/1535800992","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 px-3 py-2 bg-zinc-900 border border-zinc-700 rounded text-zinc-100 hover:bg-zinc-800","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","role":"img","viewBox":"0 0 24 24","className":"w-4 h-4 text-[#FA2C59]","aria-hidden":true,"children":["$undefined",[["$","path","0",{"d":"$1f","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],"$L20"]}],"$L21"]}]]}]]}]
+20:["$","span",null,{"className":"text-sm","children":"Apple Music"}]
+21:["$","a","Youtube Music",{"href":"https://music.youtube.com/channel/UCwarG5-Eh9-sbmN374C4BaQ","target":"_blank","rel":"noopener noreferrer","className":"inline-flex items-center gap-2 px-3 py-2 bg-zinc-900 border border-zinc-700 rounded text-zinc-100 hover:bg-zinc-800","children":[["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","role":"img","viewBox":"0 0 24 24","className":"w-4 h-4 text-[#FF0000]","aria-hidden":true,"children":["$undefined",[["$","path","0",{"d":"M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}],["$","span",null,{"className":"text-sm","children":"Youtube Music"}]]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+22:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+b:[["$","title","0",{"children":"All Hail The King — 2025"}],["$","meta","1",{"name":"description","content":"Official website of Wholesale Tuna, featuring lyrics and album cover art."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.9bfc1379.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L22","3",{}]]
+7:null

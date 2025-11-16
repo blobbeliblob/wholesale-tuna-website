@@ -1,0 +1,205 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/79e17a59776cbefa.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.eead68dd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.0e564e6e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"P6Jsp3jffPC_fwvI9jZ0H","c":["","albums","drowning-man",""],"q":"","i":false,"f":[[["",{"children":["albums",{"children":[["slug","drowning-man","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/79e17a59776cbefa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"lato_1a86c0ae-module__mfF6kG__variable antialiased min-h-screen flex flex-col","children":[["$","main",null,{"className":"flex-grow","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer border-t border-zinc-800 text-zinc-400 text-sm py-6 px-4 text-center","children":["© ",2025," ","Camilo Hernández Nyreen",". All rights reserved."]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/dd6ebbdfa5cd8464.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$@9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$@b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[22016,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],""]
+e:T4a2,
+    un suspiro, una vida
+    y los sueños del ayer
+    diluidos lentamente
+    en la sombra del placer
+
+    tan hermosa, tan herida, 
+    tan perdida en el presente
+    no se siente comprendida
+    estos sueños no son suficientes
+
+    este color que encuentro en ti
+    este nuevo medio en el que intento existir
+    el dolor que dejaste estacado en mi
+    es que sin ti ya no siento que puedo vivir
+
+    hipócrita, consumida
+    por el gusto de tener
+    desechable subconsciente
+    sin lugar al cual volver
+
+    si se siente deprimida
+    por las causas del ambiente
+    enfrentada ante la amenaza
+    de un planeta mas caliente
+
+    este amor que sembraste en mi
+    esta costumbre a la que me intento submitir
+    esta flor que creció de mi memoria de ti
+    y siento nuevas emociones que quiero, quiero descubrir
+
+    este color que encuentro en ti
+    este nuevo medio en el que intento existir
+    el dolor que dejaste estacado en mi
+    es que sin ti ya no siento que puedo vivir
+
+    este amor que sembraste en mi
+    esta costumbre a la que me intento submitir
+    esta flor que creció de mi memoria de ti
+    y siento nuevas emociones que quiero, quiero descubrir
+    f:T41f,
+    if the bombs were dropped tomorrow
+    would the songs I wrote remain
+    would someone be there to sing them
+    could they plant a seed for change
+
+    once the thunder gods have settled
+    silence spread across the lands
+    could we shape a new beginning
+    with the world placed in our hands
+
+    could we lie down on the grass
+    admire a sky sprinkled with stars
+    on a canvas painted crimson
+    lifeless fields tainted by wars
+
+    could we find a sense of reason
+    have we lost the gift of choice
+    would I be able to find you
+    just by following your voice
+
+    could we hear the sound of children
+    would they be a source of laughter
+    on the pastures of our fathers
+    could we stay forever after
+
+    what does it mean to be alive
+    we try to hide behind our smiles
+    this hole within us, filled with screams
+    the price we paid to reach our dreams
+
+    and if the bombs were dropped tomorrow
+    would we leave behind a past
+    or would the fields be filled with flowers
+    all these dreams that never were
+    4:["$","div",null,{"className":"min-h-screen text-zinc-200","children":["$","main",null,{"className":"mx-auto max-w-3xl p-8","children":[["$","$Ld",null,{"href":"/","className":"text-zinc-300 hover:underline","children":"← Back"}],["$","section",null,{"className":"mt-6","children":["$","div",null,{"className":"grid gap-4 lg:grid-cols-3","children":[["$","div",null,{"className":"lg:col-span-2 space-y-4","children":[["$","details","una-vida",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Una Vida"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$e"}]]}],["$","details","if-the-bombs-were-dropped-tomorrow",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"If The Bombs Were Dropped Tomorrow"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$f"}]]}],["$","details","what-the-hell-is-going-on",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"What The Hell Is Going On"}],"$L10"]}],"$L11"]}],"$L12"]}]}]]}]}]
+15:I[5500,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],"Image"]
+13:T5e7,
+    what the hell is going on, man
+    forests are becoming stoneland
+    corporates are cutting down the trees
+    pesticides are killing all the bees
+
+    blame it on the meat production
+    and don't forget our reproduction
+    voting for the mass seduction
+    lose your rights for tax reductions
+
+    spray me with that sweet DDT
+    as we flush all of our microplastics
+    into the sea
+
+    cold is spreading, evil plants its seed
+    ignorance as mother Earth will bleed
+    fear of safety, hanging on to greed
+    monetize on basic human needs
+
+    we consume, we sell our souls
+    we like to be under control
+    we choose to do as we are told
+    we sit back, watch our lives unfold
+
+    shower me in sweet DNA
+    as your gene manipulated organs
+    are shipped away
+
+    poison leaching through the soil
+    we're stuck inside this mortal coil
+    high on mental masturbation
+    self destruct in desperation
+
+    television melts our brain
+    corruption sips into the grains
+    medication numbs the pain
+    our psychic powers keep us sane
+
+    what the hell is going on, man
+    something that I cannot understand
+    we don't know how we should use the land
+    planet Earth's slowly becoming bland
+
+    close your eyes and count to ten
+    now open them and try again
+    fate has lost its faith in you
+    so what are we supposed to do
+
+    what the hell is going on, man
+    something that I cannot understand
+    what the hell is going on, man
+    try to fix it if you think you can
+    10:["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$13"}]
+14:T60a,
+    once again, the sky is crying
+    tears replaced by acid sweat
+    warming up and slowly dying
+    creeping up, this silent threat
+
+    like methane bursting through the lakes
+    and suffocating life
+    the red pill that we did not take
+    we're left here without ice
+
+    glaciers drowning in the ocean
+    man is selling them as lotion
+    wildfires light up the night
+    consumed as distant kilobytes
+
+    the faster we fall
+    the longer distance we must crawl
+    covering our eyes
+    will only further our demise
+
+    the same mistakes we've done before
+    our hearts will ache and be left sore
+    we try to find our blessed relief
+    escape within messed up beliefs
+
+    through urban jungles, crouching tigers
+    hidden dragons in disguise
+    aliens like H R Giger's
+    predators devouring life
+
+    if ecstasy is what you seek
+    employ the child, destroy the meek
+    monetize procrastination
+    live off nature's exploitation
+
+    the end of peace, the start of war
+    the smell of death like never before
+    the valkyries, the heart of darkness
+    the water's red in the age of madness
+
+    the trees are marching to the sea
+    the root of evil, all the bees
+    are breathing in the pesticides
+    forced to join our suicide
+
+    the faster we fall
+    the longer distance we must crawl
+    covering our eyes
+    will only further our demise
+
+    the end of peace, the start of war
+    the smell of death like never before
+    the valkyries, the heart of darkness
+    the water's red in the age of madness
+    11:["$","details","remember-to-recycle",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Remember To Recycle"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$14"}]]}]
+12:["$","aside",null,{"className":"lg:col-span-1 rounded-md border border-zinc-700 p-4 bg-zinc-800","children":[["$","$L15",null,{"src":"/albums/drowning_man.png","alt":"Drowning Man cover","width":600,"height":600}],["$","h2",null,{"className":"mt-4 text-2xl font-bold text-zinc-100","children":"Drowning Man"}],["$","div",null,{"className":"text-zinc-400","children":2021}],"$undefined"]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+16:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+b:[["$","title","0",{"children":"Drowning Man — 2021"}],["$","meta","1",{"name":"description","content":"Official website of Wholesale Tuna, featuring lyrics and album cover art."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.9bfc1379.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L16","3",{}]]
+7:null

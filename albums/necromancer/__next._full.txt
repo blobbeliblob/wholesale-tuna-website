@@ -1,0 +1,185 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/79e17a59776cbefa.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.eead68dd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.0e564e6e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"P6Jsp3jffPC_fwvI9jZ0H","c":["","albums","necromancer",""],"q":"","i":false,"f":[[["",{"children":["albums",{"children":[["slug","necromancer","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/79e17a59776cbefa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"lato_1a86c0ae-module__mfF6kG__variable antialiased min-h-screen flex flex-col","children":[["$","main",null,{"className":"flex-grow","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer border-t border-zinc-800 text-zinc-400 text-sm py-6 px-4 text-center","children":["© ",2025," ","Camilo Hernández Nyreen",". All rights reserved."]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/dd6ebbdfa5cd8464.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$@9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$@b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[22016,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],""]
+e:T44e,
+    Leave your cat, let's go to heaven
+    dying is a cheap expense
+    on the way let's grab a sandwich
+    oh, by the way, we'll pass through hell
+
+    grab your hat, and let's get going
+    tuna should be fine, or steak
+    Wednesday's got this air around her, 
+    let's not linger, take-away
+
+    down and down this spiral staircase
+    if you trip, it's quite a drop
+    mountains built of human waste
+    first the bottom, then the top
+
+    as we push on through the barley
+    cutting seaweed as we plough
+    hollow mortals reach their arms out
+    once they grab you they won't let go
+
+    further down the road to nowhere
+    holy beings spread their wings
+    servants of the master only
+    at the end the bell will ring
+
+    down and down this dreadful dreamland
+    climbing up will not be fun
+    as the sand that dries your eyeballs
+    cut the cord and end the run
+
+    the master's words rumble as lightning and thunder
+    his minions they dance as the world's going under
+    the angels have standards, they only do tango
+    the demons don't care as they waltz this fandango
+    f:T5ab,
+    everybody's gathered
+    cause rumor's gone around 
+    tonight behind the old chapel
+    there's something going down
+
+    a virgin to be sacrificed
+    the holiest of meat
+    we stain our hands to clean our sin
+    our savior we must greet
+
+    and can you feel my heartbeat, Luna
+    as you watch me from above
+    I drive the stake through innocence
+    all in the name of love
+
+    the minister seeks legal advice
+    to justify his spiritual lies
+    they go against the words of faith
+    he knows the hour's running late
+
+    the beast, it must be satisfied
+    it's thirst be quelched again
+    our fear has won, all hope is lost
+    the hero must be slain
+
+    so can you feel my heartbeat, Luna
+    I try to feed this twisted love
+    it's blasphemy, this deed we've done
+    to satiate our thirst for blood
+
+    and through the mist, a shadow vague
+    the prince of darkness risen has
+    his chains undone, his shackles torn
+    our overlord is here, at last
+
+    the demons flood in through the gates
+    as evil swallows all men brave
+    our lord leans forward, bares his fangs
+    and whispers, "yo, I'm Dave"
+
+    now can you feel my heartbeat, Luna
+    I cry out for your name in vain
+    the moon has left, abandoned us
+    our souls uncleansed, drenched in the rain
+
+    so can you feel my heartbeat, Luna
+    I try to find your pulse again
+    while demons nibble on my flesh
+    your lifeless corpse, my endless pain
+    4:["$","div",null,{"className":"min-h-screen text-zinc-200","children":["$","main",null,{"className":"mx-auto max-w-3xl p-8","children":[["$","$Ld",null,{"href":"/","className":"text-zinc-300 hover:underline","children":"← Back"}],["$","section",null,{"className":"mt-6","children":["$","div",null,{"className":"grid gap-4 lg:grid-cols-3","children":[["$","div",null,{"className":"lg:col-span-2 space-y-4","children":[["$","details","comedia",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Comedia"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$e"}]]}],["$","details","luna",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Luna"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$f"}]]}],"$L10","$L11"]}],"$L12"]}]}]]}]}]
+14:I[5500,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],"Image"]
+13:T6c5,
+    today, I choked myself
+    until I couldn't breathe
+    I threw up on the kitchen floor
+    and cried myself to sleep
+
+    the oxygen escaped my lungs
+    the vacuum blew up in my mind
+    the things I did not want to see
+    the things I won't see when I'm blind
+
+    and what you hide
+    and what you fear
+    is what I like
+    but it was not part of the deal
+
+    oh
+    I'd like to know
+    oh oh oh
+
+    how many more hours
+    how many more days
+    how many more nights
+    with my heart set ablaze
+
+    this damp, dripping dungeon
+    this winding, long maze
+    these thoughts without matter
+    this glimmering haze
+
+    I opened up a window
+    to let the air clear up my head
+    to dilute this poignant stench
+    from the carcass lying in my bed
+
+    my brain had leaked out through my nose
+    my eye-balls popped like a balloon
+    my chest, torn open from inside
+    my soul departed to the moon
+
+    and what you hide
+    and what you fear
+    is what I like
+    but it was not part of the deal
+
+    oh
+    I'd like to know
+    oh oh oh
+
+    how many more hours
+    how many more days
+    how many more nights
+    with my heart set ablaze
+
+    this damp, dripping dungeon
+    this winding, long maze
+    these thoughts without matter
+    this glimmering haze
+
+    how many more hours
+    how many more days
+    how many more nights
+    with my heart set ablaze
+
+    this damp, dripping dungeon
+    this winding, long maze
+    these thoughts without matter
+    this glimmering haze
+
+    the dream that eludes me
+    and the fear without end
+    have colluded together
+    and I see them as friends
+
+    I used to feel empty
+    now I long for some space
+    but I am no angel
+    and my fall has no grace
+    10:["$","details","this-glimmering-haze",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"This Glimmering Haze"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$13"}]]}]
+11:["$","details","sacrilege",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Sacrilege"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    I want to desecrate your grave\n    I want to excavate your bones\n    I want to raise you from the dead\n    cause I can't stand living alone\n\n    they say that time can heal all wounds\n    it isn't able to heal mine\n    I've had this abyss in my chest\n    since you stopped being here alive\n\n    it's sacrilege\n    of the worst kind\n    but I'd do anything\n    to have your spirit escape time\n\n    no matter how I blow my sail\n    I still ain't getting anywhere\n    exhausted from breathing the air\n    confined within the space we shared\n\n    I reach for every straw of hope\n    I care not for the price of sin\n    but there's no hope for you, nor me\n    the straws are blown off by the wind\n\n    it's sacrilege\n    of the worst kind\n    but I'd do anything\n    to have your spirit escape time\n\n    it's sacrilege\n    of the worst kind\n    but I'd do anything\n    to have your spirit escape time\n\n    it's sacrilege\n    of the worst kind\n    but I'd do anything\n    to have your spirit escape time\n    "}]]}]
+12:["$","aside",null,{"className":"lg:col-span-1 rounded-md border border-zinc-700 p-4 bg-zinc-800","children":[["$","$L14",null,{"src":"/albums/necromancer.png","alt":"Necromancer cover","width":600,"height":600}],["$","h2",null,{"className":"mt-4 text-2xl font-bold text-zinc-100","children":"Necromancer"}],["$","div",null,{"className":"text-zinc-400","children":2021}],"$undefined"]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+15:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+b:[["$","title","0",{"children":"Necromancer — 2021"}],["$","meta","1",{"name":"description","content":"Official website of Wholesale Tuna, featuring lyrics and album cover art."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.9bfc1379.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L15","3",{}]]
+7:null

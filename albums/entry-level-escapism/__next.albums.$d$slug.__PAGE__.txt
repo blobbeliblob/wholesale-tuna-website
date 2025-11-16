@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],""]
+8:I[5500,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],"Image"]
+9:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+a:"$Sreact.suspense"
+3:T532,
+    I sit atop the watchtower
+    the guardian of the gate
+    but there's nothing to watch over
+    I contemplate my fate
+
+    awoken from eternal slumber
+    eons after time was lost
+    but eons are just larger numbers
+    and so I stay here on this post
+
+    I
+    have
+    something
+    that I'd like to find
+
+    let me be
+    warden of the land
+    set me free
+    is this my chance
+
+    let me stay
+    so I can understand
+    cause now I have
+    the whole world in my hand
+
+    silent streets and empty casas
+    ancient cities overgrown
+    strolling through deserted plazas
+    where forgotten kings were overthrown
+
+    summoned from uncharted depths
+    astral planes not yet explored
+    mindscapes where the old ones slept
+    hidden in folklore
+
+    I
+    have
+    something
+    that I'd like to find
+
+    let me be
+    warden of the land
+    set me free
+    is this my chance
+
+    let me stay
+    so I can understand
+    cause now I have
+    the whole world in my hand
+
+    let me be
+    warden of the land
+    set me free
+    is this my chance
+
+    let me stay
+    so I can understand
+    cause now I have
+    the whole world in my hand
+
+    let me be
+    warden of the land
+    set me free
+    is this my chance
+
+    let me stay
+    so I can understand
+    cause now I have
+    the whole world in my hand
+    4:T538,
+    if tentacles are fiction
+    then what the hell am I
+    pushing on without conviction
+    a wet and squishy breathing lie
+    hide yourself inside old books
+    rewriting history
+    imagination changed your looks
+    it twists and turns reality
+
+    take me back
+    to the time before land
+    the happy days
+    when squid ruled over man
+    if everything
+    came from the sea
+    before it warmed up
+    a few degrees
+
+    if tentacles are fiction
+    what am I doing here
+    existing as a contradiction
+    as muddy water is unclear
+    will you end caught up on the hook
+    inviting destiny
+    growing softer as you cook
+    your new reality
+
+    take me back
+    to the time before land
+    the happy days
+    when squid ruled over man
+    if everything
+    came from the sea
+    before it warmed up
+    a few degrees
+
+    now back we go
+    below the waves
+    to find the freedom
+    that we crave
+    tentacles
+    served on a plate
+    is not our choice
+    is not our fate
+
+    take me back
+    to the time before land
+    the happy days
+    when squid ruled over man
+    if everything
+    came from the sea
+    before it warmed up
+    a few degrees
+
+    now back we go
+    below the waves
+    to find the freedom
+    that we crave
+    tentacles
+    served on a plate
+    is not our choice
+    is not our fate
+    0:{"buildId":"P6Jsp3jffPC_fwvI9jZ0H","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen text-zinc-200","children":["$","main",null,{"className":"mx-auto max-w-3xl p-8","children":[["$","$L2",null,{"href":"/","className":"text-zinc-300 hover:underline","children":"← Back"}],["$","section",null,{"className":"mt-6","children":["$","div",null,{"className":"grid gap-4 lg:grid-cols-3","children":[["$","div",null,{"className":"lg:col-span-2 space-y-4","children":[["$","details","entry-level-escapism",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Entry Level Escapism"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$3"}]]}],["$","details","squid-pron",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Squid Pron"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$4"}]]}]]}],"$L5"]}]}]]}]}],["$L6"],"$L7"]}],"loading":null,"isPartial":false}
+5:["$","aside",null,{"className":"lg:col-span-1 rounded-md border border-zinc-700 p-4 bg-zinc-800","children":[["$","$L8",null,{"src":"/albums/entry_level_escapism.png","alt":"Entry Level Escapism cover","width":600,"height":600}],["$","h2",null,{"className":"mt-4 text-2xl font-bold text-zinc-100","children":"Entry Level Escapism"}],["$","div",null,{"className":"text-zinc-400","children":2022}],"$undefined"]}]
+6:["$","script","script-0",{"src":"/_next/static/chunks/dd6ebbdfa5cd8464.js","async":true}]
+7:["$","$L9",null,{"children":["$","$a",null,{"name":"Next.MetadataOutlet","children":"$@b"}]}]
+b:null

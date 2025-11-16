@@ -1,0 +1,302 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/79e17a59776cbefa.css","style"]
+:HL["/_next/static/media/345c85a432359eed-s.p.eead68dd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/8e451580e5e95631-s.p.0e564e6e.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"P6Jsp3jffPC_fwvI9jZ0H","c":["","albums","drifters",""],"q":"","i":false,"f":[[["",{"children":["albums",{"children":[["slug","drifters","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/79e17a59776cbefa.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"lato_1a86c0ae-module__mfF6kG__variable antialiased min-h-screen flex flex-col","children":[["$","main",null,{"className":"flex-grow","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer border-t border-zinc-800 text-zinc-400 text-sm py-6 px-4 text-center","children":["© ",2025," ","Camilo Hernández Nyreen",". All rights reserved."]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/dd6ebbdfa5cd8464.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$@9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$@b"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"s":false,"S":true}
+d:I[22016,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],""]
+e:T658,
+    there's nothing here, of what has been
+    the dust has covered everything
+    this idol, once the pride of man
+    the guardian of this desert land
+
+    the remnants of a long gone past
+    these cities weren't built to last
+    they're slowly sinking in the sand
+    the guardian makes her final stand
+
+    the shadow of a closing storm
+    we gather up, and then we're gone
+    the memories we leave behind
+    are droplets in the sea of time
+
+    now hurry up, we've got to go
+    we can't afford to take it slow
+    so close your mouth, protect your eyes
+    how long before you realise
+
+    we're drifters pushing onwards
+    in this landscape of decay
+    just two lost souls moving forward
+    live to breathe another day
+
+    safe and sound, but where's our hope
+    the space around us only slopes
+    there's toxic, radioactive waste
+    the feelings that we can't replace
+
+    now hurry up, we've got to go
+    escape this dream we can't let grow
+    so close your eyes, open your mouth
+    and take a look, erase your doubts
+
+    we're drifters, pushing onwards
+    trying to find our paradise
+    just two lost souls moving forward
+    while we lie here paralyzed
+
+    now hurry up, we've got to go
+    we can't afford to take it slow
+    so close your mouth, protect your eyes
+    how long before you realise
+
+    we're drifters, pushing onwards
+    trying to find our paradise
+    just two lost souls moving forward
+    while we lie here paralyzed
+
+    we're drifters, pushing onwards
+    through these shades of washed out grey
+    just two lost souls moving forward
+    while we slowly drift away
+    f:T6eb,
+    Ooo, a aaa
+    Ooo, a aaa
+    Ooo, a aaa
+    Ooo, a aaa
+
+    I feel the walls closing in
+    the orchestra is set to begin
+    a symphony faintly heard on the wind
+
+    how does the world around me appear to spin
+    if I cannot move, can I ever win
+    I throw my plastic life in the recycle bin
+
+    somewhere, anywhere, 
+    get me there, I don't care
+    everywhere is in my head
+    the moon above me turning red
+
+    little flower in disguise
+    feeling low when you are high
+    trying to rationalize
+    easy peasy medium size
+
+    it's ecstasy
+    ecstasy
+    you know it's ecstasy
+    e e e ecstasy
+
+    are you free? (I don't know)
+    reality (is creeping up)
+    are you me? (I'm not sure)
+    who do you want to be? (okay, now stop)
+
+    do you dream? (I don't know)
+    ecstasy (flows through my mind)
+    can you see? (I have no eyes)
+    what do you mean (I think I'm blind)
+
+    it's ecstasy
+    ecstasy
+    you know it's ecstasy
+    e e e ecstasy
+
+    it's ecstasy (are you losing control)
+    to anxiety (is life taking it's toll)
+    do you feel relief (are you able to tell)
+    have you found your peace (is it something you sell)
+
+    now don't start thinking that you're just gonna die
+    cause you have to keep on dreaming if you want to stay alive
+    you know that fear is a friend that is telling the truth
+    so when confronted by reality, what are you gonna do
+
+    it's ecstasy (ecstasy, sodomy, lobotomy and anarchy)
+    ecstasy (ecstasy, sodomy, lobotomy and anarchy)
+    you know it's ecstasy (ecstasy, sodomy, lobotomy and anarchy)
+    e e e ecstasy (ecstasy, sodomy, lobotomy and anarchy)
+
+    I can't stop thinking of you
+    I can't stop thinking of you
+    I can't stop thinking of you
+    I can't stop thinking of you
+    4:["$","div",null,{"className":"min-h-screen text-zinc-200","children":["$","main",null,{"className":"mx-auto max-w-3xl p-8","children":[["$","$Ld",null,{"href":"/","className":"text-zinc-300 hover:underline","children":"← Back"}],["$","section",null,{"className":"mt-6","children":["$","div",null,{"className":"grid gap-4 lg:grid-cols-3","children":[["$","div",null,{"className":"lg:col-span-2 space-y-4","children":[["$","details","drifters",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Drifters"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$e"}]]}],["$","details","ecstasy",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Ecstasy"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$f"}]]}],"$L10","$L11","$L12","$L13","$L14"]}],"$L15"]}]}]]}]}]
+19:I[5500,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],"Image"]
+10:["$","details","raising-the-alarm",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Raising The Alarm"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    [Instrumental]\n    "}]]}]
+11:["$","details","jellyfish",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Jellyfish"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"\n    I'd like to be\n    a jellyfish, floating free\n    pushing through the waves\n    chilling by myself in a deep sea grave\n    drift ashore with the tide\n    it's hard to breathe but I'm still alive\n    forget myself within this ocean\n    protected by this strange sun lotion\n\n    I'd like to be\n    someone who faces destiny\n    an astronaut\n    noone hears me when I shout\n    imagine talking to the stars\n    I wish I could escape to mars\n    floating free through this space\n    crashing hard on my face\n\n    I enter through the atmosphere\n    sometimes I wish I wasn't here\n    but when you're floating next to me\n    will we ever be\n\n    you squish me like a jellyfish\n    my genie will you grant my wish\n    "}]]}]
+16:T52d,
+    is this the dream you meant to lend me?
+    this sour transition from your night to dawn
+    I never thought of you as twisted
+    but when you made us all your pawns
+
+    I finally see the thorns you spoke of
+    the agonizing pain you meant
+    the darkness as the sun corroded
+    this dream was not one to be lent
+
+    but how can you pretend to love me
+    when I don't even love myself
+    I used to wish I was just like you
+    but now I wish for someone else
+
+    the day before the sun came crawling
+    back into the chambers of an empty moon
+    we sat back as the sky came falling
+    downs from the mattress spread out with a plume
+
+    we tried to map out all the unknowns
+    in the calm before the beast awoke
+    I thought this was the perfect headrest
+    so soothing were the words you spoke
+
+    so when you say you really love me
+    as I hide behind this see-through shawl
+    will you offer up your shoulder for me
+    and can I let my feelings sprawl?
+
+    and I've been thinking of a world
+    where there's no sun
+    a world without a surface where
+    we fall, but never hit the ground
+
+    and I've been having dreams
+    I can't remember what they mean
+    we run, we fall, we crawl, we stumble
+    forward, forward and we scream
+
+    I scream
+    Icecream
+    the summer's nearly here
+    12:["$","details","in-the-shadow-of-a-fleeting-moon",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"In the Shadow of a Fleeting Moon"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$16"}]]}]
+17:T5b1,
+    Anthony, the dragon
+    was holed up in his cave
+    he should have switched to normal
+    but corruption took his save
+
+    Anthony, the dragon
+    did you hear about him too?
+    lately he's been hooked on grass
+    and all he says is moo
+
+    anthony, the dragon
+    no need to be so wary
+    his arguments lack punch
+    cause he just wants to be contrarian
+
+    Anthony the dragon
+    Can't stand his cockatoo
+    She lives inside his eardrum
+    And the rent is overdue
+
+    Anthony, the dragon
+    has barely left his home
+    got stuck in conversation
+    with his little garden gnomes
+
+    Anthony the dragon
+    Has lost his perfect pitch
+    The cuckoo took it yesterday
+    And now he claims it's his
+
+    Anthony, the dragon
+    Hey, have you seen his tail?
+    He's tried to stop the jittering
+    But oh, to no avail
+
+    anthony, the dragon
+    behold his powers gained
+    went searching for secluded monks
+    spent 15 years to train
+
+    Anthony the dragon
+    Is feeling ill at ease
+    His cockatoo has flown away
+    Across the seven seas
+
+    anthony, the dragon
+    his pride has made him vain
+    pretending to be holy
+    but his his shirt has got a stain
+
+    Anthony, the dragon
+    now has nothing left but fumes
+    his claws can't rip, his fangs can't bite
+    and he's addicted to legumes
+
+    anthony, the dragon
+    was used to being scary
+    now his wings can't lift him anymore
+    and he's no longer legendary
+    13:["$","details","anthony-the-dragon",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Anthony the Dragon"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$17"}]]}]
+18:T658,
+    there's nothing here, of what has been
+    the dust has covered everything
+    this idol, once the pride of man
+    the guardian of this desert land
+
+    the remnants of a long gone past
+    these cities weren't built to last
+    they're slowly sinking in the sand
+    the guardian makes her final stand
+
+    the shadow of a closing storm
+    we gather up, and then we're gone
+    the memories we leave behind
+    are droplets in the sea of time
+
+    now hurry up, we've got to go
+    we can't afford to take it slow
+    so close your mouth, protect your eyes
+    how long before you realise
+
+    we're drifters pushing onwards
+    in this landscape of decay
+    just two lost souls moving forward
+    live to breathe another day
+
+    safe and sound, but where's our hope
+    the space around us only slopes
+    there's toxic, radioactive waste
+    the feelings that we can't replace
+
+    now hurry up, we've got to go
+    escape this dream we can't let grow
+    so close your eyes, open your mouth
+    and take a look, erase your doubts
+
+    we're drifters, pushing onwards
+    trying to find our paradise
+    just two lost souls moving forward
+    while we lie here paralyzed
+
+    now hurry up, we've got to go
+    we can't afford to take it slow
+    so close your mouth, protect your eyes
+    how long before you realise
+
+    we're drifters, pushing onwards
+    trying to find our paradise
+    just two lost souls moving forward
+    while we lie here paralyzed
+
+    we're drifters, pushing onwards
+    through these shades of washed out grey
+    just two lost souls moving forward
+    while we slowly drift away
+    14:["$","details","drifters",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Drifters - Remix"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$18"}]]}]
+15:["$","aside",null,{"className":"lg:col-span-1 rounded-md border border-zinc-700 p-4 bg-zinc-800","children":[["$","$L19",null,{"src":"/albums/drifters.png","alt":"Drifters cover","width":600,"height":600}],["$","h2",null,{"className":"mt-4 text-2xl font-bold text-zinc-100","children":"Drifters"}],["$","div",null,{"className":"text-zinc-400","children":2021}],"$undefined"]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1a:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"IconMark"]
+b:[["$","title","0",{"children":"Drifters — 2021"}],["$","meta","1",{"name":"description","content":"Official website of Wholesale Tuna, featuring lyrics and album cover art."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.9bfc1379.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L1a","3",{}]]
+7:null
