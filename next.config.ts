@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
   
   trailingSlash: true,
   
-  basePath: '/wholesale-tuna-website',
+  // basePath: '',
   
   images: {
     unoptimized: true,
