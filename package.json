@@ -4,11 +4,11 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "cross-env NEXT_PUBLIC_BASE_PATH= next build && node scripts/post-build.js",
+    "build": "next build",
     "start": "next start",
     "deploy": "npm run build && gh-pages -d out",
     "lint": "eslint",
-    "serve": "cross-env NEXT_PUBLIC_BASE_PATH= npx serve out"
+    "serve": "npx serve out"
   },
   "dependencies": {
     "next": "16.0.1",
