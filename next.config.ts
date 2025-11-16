@@ -6,7 +6,7 @@ const nextConfig: NextConfig = {
   
   trailingSlash: true,
   
-  // basePath: '',
+  basePath: '',
   
   images: {
     unoptimized: true,
