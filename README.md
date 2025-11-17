@@ -1,3 +1,5 @@
 # Wholesale Tuna artist page
 
-Static website made with Next.js
+View [here](https://wholesale-tuna.cmlo.dev).
+
+Static website made with Next.js, hosted on GitHub Pages.
