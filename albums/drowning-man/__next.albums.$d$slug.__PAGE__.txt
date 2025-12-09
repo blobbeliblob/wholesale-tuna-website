@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[22016,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],""]
-d:I[5500,["/_next/static/chunks/dd6ebbdfa5cd8464.js"],"Image"]
+2:I[22016,["/_next/static/chunks/f9b507408fd9d577.js"],""]
+d:I[5500,["/_next/static/chunks/f9b507408fd9d577.js"],"Image"]
 e:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 f:"$Sreact.suspense"
 3:T4a2,
@@ -78,7 +78,7 @@ f:"$Sreact.suspense"
     would we leave behind a past
     or would the fields be filled with flowers
     all these dreams that never were
-    0:{"buildId":"LlVwLbRsiG4B8P00L5krV","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen text-zinc-200","children":["$","main",null,{"className":"mx-auto max-w-3xl p-8","children":[["$","$L2",null,{"href":"/","className":"text-zinc-300 hover:underline","children":"← Back"}],["$","section",null,{"className":"mt-6","children":["$","div",null,{"className":"grid gap-4 lg:grid-cols-3","children":[["$","div",null,{"className":"lg:col-span-2 space-y-4","children":[["$","details","una-vida",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Una Vida"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$3"}]]}],["$","details","if-the-bombs-were-dropped-tomorrow",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"If The Bombs Were Dropped Tomorrow"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$4"}]]}],["$","details","what-the-hell-is-going-on",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":["$L5","$L6"]}],"$L7"]}],"$L8"]}]}]]}]}],["$L9"],"$La"]}],"loading":null,"isPartial":false}
+    0:{"buildId":"9LgW8K3jQCnCrhmhVBa2H","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"min-h-screen text-zinc-200","children":["$","main",null,{"className":"mx-auto max-w-3xl p-8","children":[["$","$L2",null,{"href":"/","className":"text-zinc-300 hover:underline","children":"← Back"}],["$","section",null,{"className":"mt-6","children":["$","div",null,{"className":"grid gap-4 lg:grid-cols-3","children":[["$","div",null,{"className":"lg:col-span-2 space-y-4","children":[["$","details","una-vida",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Una Vida"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$3"}]]}],["$","details","if-the-bombs-were-dropped-tomorrow",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"If The Bombs Were Dropped Tomorrow"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$4"}]]}],["$","details","what-the-hell-is-going-on",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":["$L5","$L6"]}],"$L7"]}],"$L8"]}]}]]}]}],["$L9"],"$La"]}],"loading":null,"isPartial":false}
 5:["$","summary",null,{"className":"text-2xl font-semibold","children":"What The Hell Is Going On"}]
 b:T5e7,
     what the hell is going on, man
@@ -191,6 +191,6 @@ c:T60a,
     the water's red in the age of madness
     7:["$","details","remember-to-recycle",{"className":"rounded-md border border-zinc-700 p-3 bg-zinc-800","children":[["$","summary",null,{"className":"text-2xl font-semibold","children":"Remember To Recycle"}],["$","div",null,{"className":"mt-2 whitespace-pre-wrap text-zinc-200 font-mono max-h-64 overflow-auto pr-2 text-xs","children":"$c"}]]}]
 8:["$","aside",null,{"className":"lg:col-span-1 rounded-md border border-zinc-700 p-4 bg-zinc-800","children":[["$","$Ld",null,{"src":"/albums/drowning_man.png","alt":"Drowning Man cover","width":600,"height":600}],["$","h2",null,{"className":"mt-4 text-2xl font-bold text-zinc-100","children":"Drowning Man"}],["$","div",null,{"className":"text-zinc-400","children":2021}],"$undefined"]}]
-9:["$","script","script-0",{"src":"/_next/static/chunks/dd6ebbdfa5cd8464.js","async":true}]
+9:["$","script","script-0",{"src":"/_next/static/chunks/f9b507408fd9d577.js","async":true}]
 a:["$","$Le",null,{"children":["$","$f",null,{"name":"Next.MetadataOutlet","children":"$@10"}]}]
 10:null
