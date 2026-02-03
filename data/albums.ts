@@ -20,9 +20,9 @@ export const albums: Album[] = [
     year: 2025,
     cover: "/albums/all_hail_the_king.png",
     links: [
-      { name: "Spotify", url: "https://open.spotify.com/artist/04435ueRTaxUQmsiBoWocT" },
-      { name: "Apple Music", url: "https://music.apple.com/artist/wholesale-tuna/1535800992" },
-      { name: "Youtube Music", url: "https://music.youtube.com/channel/UCwarG5-Eh9-sbmN374C4BaQ" },
+      { name: "Spotify", url: "https://open.spotify.com/album/11KlBmQ0D9Fw8HftkfrwA2" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/all-hail-the-king/1794335309" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_m6o60ZL-HHSRqs305yg9TyKxq1h2f6wKE" },
     ],
     tracks: [
       { id: "urban-native", title: "Urban Native" },
@@ -44,6 +44,11 @@ export const albums: Album[] = [
     title: "Ethics for Heretics",
     year: 2024,
     cover: "/albums/ethics_for_heretics.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/3xqhMZhzyIzlqKzxC9WOwV" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/ethics-for-heretics-ep/1733660061" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_laklr7JDoaOqLe6vBe4DhrVMYkl4B7-cg" },
+    ],
     tracks: [
       { id: "dogs-of-war", title: "Dogs of War" },
       { id: "flowers", title: "Flowers" },
@@ -57,6 +62,11 @@ export const albums: Album[] = [
     title: "The Pizza Connection",
     year: 2023,
     cover: "/albums/the_pizza_connection.jpg",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/20jkx0JSCFwJfuPnz1Vhwk" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/the-pizza-connection/1704132497" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kXccax898gQTIM18csVtrWcaaIgmFwjrw" },
+    ],
     tracks: [
       { id: "2001", title: "2001" },
       { id: "post-shower", title: "Post-Shower" },
@@ -74,6 +84,11 @@ export const albums: Album[] = [
     title: "Polarized Mood",
     year: 2023,
     cover: "/albums/polarized_mood.jpg",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/3mpVF0AVooeyruhvjn8p1u" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/polarized-mood/1733682949" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_l_sQOtCETc8Hz7xXkQIf4Sa-r_OYF3dsE" },
+    ],
     tracks: [
       { id: "transmission", title: "Transmission" },
       { id: "bleed-for-you", title: "Bleed For You" },
@@ -90,6 +105,11 @@ export const albums: Album[] = [
     title: "Entry Level Escapism",
     year: 2022,
     cover: "/albums/entry_level_escapism.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/4OXgGDv62VwSEDDgWmGe1q" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/entry-level-escapism-single/1720350048" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_k-fwR8e2HUCMDQH8bd1c2k8gIjruohLfg" },
+    ],
     tracks: [
       { id: "entry-level-escapism", title: "Entry Level Escapism" },
       { id: "squid-pron", title: "Squid Pron" },
@@ -100,6 +120,11 @@ export const albums: Album[] = [
     title: "Birds",
     year: 2022,
     cover: "/albums/birds.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/1UP1YZSqiC899ZMJgz3JVy" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/birds-single/1716239325" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_mP5yomZQPjetFARuOXrAFquxq_8PlXRyU" },
+    ],
     tracks: [
       { id: "birds", title: "Birds" },
       { id: "dreamsnatchers", title: "Dream Snatchers" },
@@ -110,6 +135,11 @@ export const albums: Album[] = [
     title: "Necromancer",
     year: 2021,
     cover: "/albums/necromancer.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/5tqBLTj50kOKWT1rlD0mo0" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/necromancer-ep/1720346211" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_nNApOCIJmG9d7yJ23jy5Y5KJ9CalT5ZLY" },
+    ],
     tracks: [
       { id: "comedia", title: "Comedia" },
       { id: "luna", title: "Luna" },
@@ -122,6 +152,11 @@ export const albums: Album[] = [
     title: "Drowning Man",
     year: 2021,
     cover: "/albums/drowning_man.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/3Q4fLRf7YtHKQ9EpJRWqGW" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/drowning-man-ep/1720347966" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kchAUvCFW20SJIMz8auMc47woYNAzlulg" },
+    ],
     tracks: [
       { id: "una-vida", title: "Una Vida" },
       { id: "if-the-bombs-were-dropped-tomorrow", title: "If The Bombs Were Dropped Tomorrow" },
@@ -134,6 +169,11 @@ export const albums: Album[] = [
     title: "The Dark Side of the Prune",
     year: 2021,
     cover: "/albums/dark_side_of_the_prune.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/4ZdXpiHMsIRDNRsS9B8skM" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/the-dark-side-of-the-prune-single/1720112585" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kadXfbHNsCmoLSgpqF7DM5fNTjhoAfK3M" },
+    ],
     tracks: [
       { id: "moaning-under-prunelight", title: "Moaning Under Prunelight" },
       { id: "looney-prunes", title: "Looney Prunes" },
@@ -144,6 +184,11 @@ export const albums: Album[] = [
     title: "Drifters",
     year: 2021,
     cover: "/albums/drifters.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/0jmmUCgOO2nRjmSdZMdzFY" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/drifters/1720107530" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kuJf7AMjU2dEeZd7EEsmeDW_qpCXePKyo" },
+    ],
     tracks: [
       { id: "drifters", title: "Drifters" },
       { id: "ecstasy", title: "Ecstasy" },
@@ -159,6 +204,11 @@ export const albums: Album[] = [
     title: "Ad Libitum",
     year: 2021,
     cover: "/albums/ad_libitum.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/3m9px47UtNbRzmhWJ3HVNN" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/ad-libitum/1719972120" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kNuTn2OJA-nd2hHEG0CYs81zQKENCnk5k" },
+    ],
     tracks: [
       { id: "i-am-potato", title: "I am Potato" },
       { id: "spoon-of-truth", title: "Spoon of Truth" },
@@ -180,6 +230,11 @@ export const albums: Album[] = [
     title: "Fish Out Of Water",
     year: 2020,
     cover: "/albums/fish_out_of_water.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/3BhN2YGYjnWhtRIBOL3a5M" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/fish-out-of-water/1719966320" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kCaPjkYcj6r9qVgq8zBtlZi_61-WyUh6I" },
+    ],
     tracks: [
       { id: "letterbomb", title: "Letterbomb" },
       { id: "over-here", title: "Over Here" },
