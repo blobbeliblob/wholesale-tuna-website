@@ -15,6 +15,27 @@ export type Album = {
 
 export const albums: Album[] = [
   {
+    slug: "the-seeds-of-chaos",
+    title: "The Seeds of Chaos",
+    year: 2026,
+    cover: "/albums/the_seeds_of_chaos.png",
+    links: [
+      { name: "Spotify", url: "https://open.spotify.com/album/02ytzdzvdkdwwo0hqruCO0" },
+      { name: "Apple Music", url: "https://music.apple.com/us/album/the-seeds-of-chaos/1882029274" },
+      { name: "Youtube Music", url: "https://music.youtube.com/playlist?list=OLAK5uy_kRwBL-TVI8vODvs-uLLiHxafp0_K_Ul2o" },
+    ],
+    tracks: [
+      { id: "wolves", title: "Wolves" },
+      { id: "the-seeds-of-chaos", title: "The Seeds of Chaos" },
+      { id: "apple", title: "Apple" },
+      { id: "the-sound-of-moosic", title: "The Sound of Moosic" },
+      { id: "counting-sheep", title: "Counting Sheep" },
+      { id: "sinners", title: "Sinners" },
+      { id: "when-the-hangman-comes", title: "When the Hangman Comes" },
+      { id: "saviors-of-grace", title: "Saviors of Grace" },
+    ],
+  },
+  {
     slug: "all-hail-the-king",
     title: "All Hail The King",
     year: 2025,

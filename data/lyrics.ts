@@ -1,4 +1,358 @@
 export const lyrics: Record<string, string> = {
+  "wolves": 
+    `
+    little cubs
+    winter cold
+    torn down homes
+    hearts grow old
+
+    silent running
+    grow your plants
+    execute them
+    reclaim all your land
+
+    wolves
+    prowling through the night
+    hunters
+    growling in their plight
+
+    supermarket
+    frozen paws
+    prey no more 
+    sharpened claws
+
+    wolves
+    prowling through the night
+    hunters
+    growling in their plight
+
+    howls
+    that echo in the night
+    whispers of a future
+    still in sight 
+    wolves
+    searching for their might
+    as they cry tonight
+    (with the tears blinding their eyes)
+    wolves
+
+    howls
+    that echo in the night
+    whispers of a future
+    still in sight 
+    wolves
+    searching for their might
+    as they cry tonight
+    (with the tears blinding their eyes
+    wolves
+    oh, these wolves 
+    `,
+  "the-seeds-of-chaos": 
+    `
+    little orchids, all my daughters
+    starved for sunlight, and for water
+    shrouded in a veil of sleep
+    we sweep the bridges, roam the streets
+    acres far the eye can see
+    fields of courage, in our need
+    hear our murmurs, hear our pleas
+    peaceful, as we plant the seed
+
+    with no clouds and a burning sky
+    there's no place to live, nor to stay alive
+    distant howls, rumbling in the far
+    seeds of chaos, what we are
+
+    build our network, underground
+    newfound freedom, here abounds
+    set the controls for the sun
+    to prepare for our return
+    as we hide, our roots grow deep 
+    while our surface brothers weep
+    from the darkness, we will crawl
+    now begins the future's sprawl
+
+    with no clouds and a burning sky
+    there's no place to live, nor to stay alive
+    distant howls, rumbling in the far
+    seeds of chaos, what we are
+
+    with no clouds and a burning sky
+    there's no place to live, nor to stay alive
+    hiding in the bush, there's a jaguar
+    there's a lot for sale, at the grand bazaar
+    with no clouds and a burning sky
+    there's no place to live, nor to stay alive
+    distant howls, rumbling in the far
+    seeds of chaos, what we are
+    `,
+  "apple": 
+    `
+    the truth has been disproved
+    and the lies are spreading freely
+    like a fire through the forest
+    tickling flames that char the trees
+
+    with the fumes that carve the grooves
+    like the fool, I now see clearly
+    how the wires wound the worries
+    fickle games that part our fears
+
+    gravity
+    see the apple, now my sky is bright
+    under the tree
+    oh so supple, bow before the light
+    depravity
+    burn the chapel, set the dawn alight
+    a bed with flees
+    powers toppled, now we set the noose tight
+
+    with the youth under the hoofs
+    and the fly swarms ever nearer
+    as the mires drown the towers
+    brittle claims follow the fees
+
+    cruel jesters line the roofs
+    acid pools tear our careers down
+    with the plyers round our necks
+    there's nothing left for us to shear
+
+    gravity
+    see the apple, now my sky is bright
+    under the tree
+    oh so supple, bow before the light
+    depravity
+    burn the chapel, set the dawn alight
+    a bed with flees
+    powers toppled, now we set the noose tight
+
+    gravity
+    see the apple, now my sky is bright
+    under the tree
+    oh so supple, bow before the light
+    depravity
+    burn the chapel, set the dawn alight
+    a bed with flees
+    powers toppled, now we set the noose tight
+    `,
+  "the-sound-of-moosic": 
+    `
+    ...
+    `,
+  "counting-sheep": 
+    `
+    global warming
+    spoils the profit
+    greedy farming
+    health deficit
+    water table
+    ancient fables
+    forbidden knowledge
+    our brains disabled
+
+    under the sun
+    under the heat
+    burn the planet
+    burn the peat
+
+    another chance
+    take to the stars
+    a hostile world
+    surviving Mars
+    not everyone
+    will make the cut 
+    just earn enough
+    if not, tough luck
+
+    there is no space
+    on planet B
+    the poor will stay
+    in purgatory
+
+    under the sun
+    under the heat
+    burn the planet
+    burn the peat
+    under the sun
+    under the heat
+    burn the planet
+    our scorching feet
+
+    under the sun
+    under the heat
+    burn the planet
+    burn the peat
+    under the sun
+    under the heat
+    burn the planet
+    our scorching feet
+
+    lost in the maelstrom 
+    afloat by counting sheep 
+    until there are no forests
+    and now there are no sheep
+    `,
+  "sinners": 
+    `
+    in search of sacred toilet paper 
+    your worship of material goods
+    your wallet voted to get tapered
+    now you search the trash for food
+
+    discard your welfare, common sense 
+    now segregation's your defense
+    no wonder that you're still so dense
+    when stupid is the best offense
+
+    sinners 
+    they crave autonomy 
+    until they get free reign
+    and then crash the economy 
+    sinners 
+    full of hypocrisy 
+    they like to pass out judgement 
+    but then beg for mercy
+
+    you spread the teachings of your book
+    and hold it high above our heads 
+    to stay obedient, on the hook
+    these wise words that you've never read
+
+    your progress is in perfect tense
+    now shed the cloak with no pretence
+    your doorstep is the far extent
+    the furthest that you've ever went
+
+    sinners 
+    they crave autonomy 
+    until they get free reign
+    and then crash the economy 
+    sinners 
+    full of hypocrisy 
+    they like to pass out judgement 
+    but then beg for mercy 
+
+    sinners 
+    they crave autonomy 
+    until they get free reign
+    and then crash the economy 
+    sinners 
+    full of hypocrisy 
+    they like to pass out judgement 
+    but then beg for mercy 
+
+    sinners
+    they drown in ecstasy
+    but when the high wears off
+    they're swimming in their master's pee
+    they think they're winners
+    it's always me me me
+    they get ahead by pushing others
+    but deep down its simple jealousy 
+    `,
+  "when-the-hangman-comes": 
+    `
+    look over your shoulder 
+    and squint at the shade
+    for the hangman has come 
+    to demand that you pay
+    emerged from the shadows 
+    a towering threat
+    but the villain is you
+    with the foul smell of death
+
+    I know the pictures
+    you hang on your wall
+    your secrets to keep
+    that you hide from us all
+    the gold in your teeth
+    and the watch by your bed
+    the ring on your finger
+    the photos in your cabinet
+
+    out in the open 
+    you try to cry wolf
+    you plead for redemption 
+    your sins, all absolved
+    the clothes, once your pride
+    now a burden on your shoulders
+    what you hid deep inside 
+    one more case in our folders
+
+    oh I know what you've done 
+    from the papers I've read 
+    and I've heard the comments 
+    that wish you were dead
+    the horrors you've committed 
+    from which you chose to flee
+    oh they wish you were dead 
+    and I tend to agree
+
+    across the sea
+    you thought you were safe
+    and you spent all the money 
+    you stole from their graves
+    you say you were a victim 
+    that was told what to do 
+    maybe I'm also a victim then
+    cause now I'm doing it too
+
+    justice
+    justice
+    justice 
+    justice 
+    `,
+  "saviors-of-grace": 
+    `
+    you're at a party 
+    and it's getting late
+    and in your dazed out peddling 
+    you knock down a vase
+    from the Ming dynasty 
+    it shatters like a plate
+    and like a newborn fledgling 
+    you take off with haste
+
+    flee
+    you've got to leave this place
+    as fast as you can 
+    to avoid disgrace
+
+    run
+    we will pick you up tonight
+    and you will not lose
+    face
+    you'll be home in time
+    we are the saviors of grace
+
+    and on the next morning
+    you receive a text from the host 
+    and he tells you not to worry
+    the vase must have got lost in the crowd
+    but a few weeks later 
+    you turn on the news
+    and see the host has been arrested 
+    for insurance fraud
+
+    the vase
+    it was a counterfeit
+    but our taxi service 
+    helped you anyway 
+
+    run
+    we will pick you up tonight
+    and you will not lose
+    face
+    you'll be home in time
+    we are the saviors of grace
+
+    run
+    we did pick you up that night
+    and you did not lose
+    face
+    you were home in time
+    we were the saviors of grace
+    `,
   "urban-native": 
     `
     desire
