@@ -1,0 +1,269 @@
+1:"$Sreact.fragment"
+2:I[39756,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+3:I[37457,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+5:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"ViewportBoundary"]
+a:I[97367,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"MetadataBoundary"]
+c:I[68027,[],"default"]
+:HL["/_next/static/chunks/ddf6fdf2d58115ef.css","style"]
+:HL["/_next/static/media/2a65768255d6b625-s.p.d19752fb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/83afe278b6a6bb3c-s.p.3a6ba036.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"P":null,"b":"SiSJ4lwy-Crv_-WSEC2yy","c":["","albums","the-seeds-of-chaos",""],"q":"","i":false,"f":[[["",{"children":["albums",{"children":[["slug","the-seeds-of-chaos","d"],{"children":["__PAGE__",{}]}]}]},"$undefined","$undefined",true],[["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/ddf6fdf2d58115ef.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"dark scroll-smooth","children":["$","body",null,{"className":"playfair_display_fed1534a-module__F9WnGq__variable inter_c15e96cb-module__0bjUvq__variable font-sans bg-black text-white antialiased selection:bg-white selection:text-black min-h-screen flex flex-col overflow-x-hidden","children":[["$","div",null,{"className":"fixed inset-0 z-[-1] bg-[radial-gradient(ellipse_at_top,var(--tw-gradient-stops))] from-zinc-900/40 via-black to-black"}],["$","main",null,{"className":"grow flex flex-col","children":["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"w-full border-t border-white/5 bg-black/50 backdrop-blur-md text-zinc-500 text-sm py-8 px-4 text-center mt-auto font-sans uppercase tracking-[0.2em]","children":["© ",2026," ","Camilo Hernández Nyreen",". All rights reserved."]}]]}]}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L3",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["$","$1","c",{"children":["$L4",[["$","script","script-0",{"src":"/_next/static/chunks/d48febc7b8ac7132.js","async":true,"nonce":"$undefined"}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],{},null,false,false]},null,false,false]},null,false,false]},null,false,false],["$","$1","h",{"children":[null,["$","$L8",null,{"children":"$L9"}],["$","div",null,{"hidden":true,"children":["$","$La",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":"$Lb"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],false]],"m":"$undefined","G":["$c",[]],"S":true}
+d:I[5500,["/_next/static/chunks/d48febc7b8ac7132.js"],"Image"]
+e:I[22016,["/_next/static/chunks/d48febc7b8ac7132.js"],""]
+4:["$","div",null,{"className":"min-h-screen bg-black text-white selection:bg-white selection:text-black","children":[["$","div",null,{"className":"fixed inset-0 z-0","children":[["$","$Ld",null,{"src":"/albums/the_seeds_of_chaos.png","alt":"Background blur","fill":true,"className":"object-cover opacity-10 blur-3xl scale-110 mix-blend-screen"}],["$","div",null,{"className":"absolute inset-0 bg-linear-to-t from-black via-black/80 to-transparent"}]]}],["$","div",null,{"className":"relative z-10 w-full min-h-screen flex flex-col lg:flex-row","children":[["$","aside",null,{"className":"w-full lg:w-[45%] xl:w-[40%] xl:h-screen lg:h-screen lg:sticky top-0 p-8 md:p-16 flex flex-col border-b lg:border-b-0 lg:border-r border-white/10","children":[["$","div",null,{"className":"mb-16 lg:mb-12 shrink-0","children":["$","$Le",null,{"href":"/","className":"inline-flex items-center gap-2 text-xs uppercase tracking-[0.2em] text-zinc-400 hover:text-white transition-colors duration-300 group","children":[["$","svg",null,{"stroke":"currentColor","fill":"none","strokeWidth":"2","viewBox":"0 0 24 24","strokeLinecap":"round","strokeLinejoin":"round","className":"group-hover:-translate-x-1 transition-transform","children":["$undefined",[["$","line","0",{"x1":"19","y1":"12","x2":"5","y2":"12","children":[]}],["$","polyline","1",{"points":"12 19 5 12 12 5","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]," Back to Discography"]}]}],["$","div",null,{"className":"flex flex-col justify-center flex-1 animate-fade-in-up","children":[["$","div",null,{"className":"relative aspect-square w-full max-w-lg mb-8 group perspective-[1000px]","children":[["$","div",null,{"className":"absolute inset-0 z-0 flex items-center justify-center transition-all duration-1000 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:translate-x-[35%] group-hover:rotate-15 md:group-hover:translate-x-[45%] xl:group-hover:translate-x-[55%]","children":["$","div",null,{"className":"relative w-[96%] h-[96%] rounded-full bg-zinc-950 shadow-[0_0_30px_rgba(0,0,0,0.8)] border border-zinc-800 flex items-center justify-center","children":[["$","div",null,{"className":"absolute inset-1 rounded-full border border-white/6"}],["$","div",null,{"className":"absolute inset-3 rounded-full border border-white/8"}],["$","div",null,{"className":"absolute inset-5 rounded-full border border-white/4"}],["$","div",null,{"className":"absolute inset-8 rounded-full border border-white/10"}],["$","div",null,{"className":"absolute inset-12 rounded-full border border-white/6"}],["$","div",null,{"className":"absolute inset-16 rounded-full border border-white/8"}],["$","div",null,{"className":"absolute inset-20 rounded-full border border-white/4"}],["$","div",null,{"className":"absolute inset-24 rounded-full border border-white/10"}],["$","div",null,{"className":"absolute inset-28 rounded-full border border-white/6"}],["$","div",null,{"className":"relative w-[34%] h-[34%] rounded-full border border-zinc-700 overflow-hidden shadow-inner bg-zinc-900","children":[["$","$Ld",null,{"src":"/albums/the_seeds_of_chaos.png","alt":"Vinyl Label","fill":true,"className":"object-cover opacity-60"}],["$","div",null,{"className":"absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-3 h-3 bg-black rounded-full shadow-inner border border-zinc-800/50"}]]}]]}]}],["$","div",null,{"className":"relative z-10 w-full h-full shadow-[0_30px_60px_-15px_rgba(0,0,0,0.8)] rounded-sm overflow-hidden bg-black transition-transform duration-1000 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:-translate-x-2 md:group-hover:-translate-x-4","children":[["$","$Ld",null,{"src":"/albums/the_seeds_of_chaos.png","alt":"The Seeds of Chaos cover","fill":true,"className":"object-contain transition-transform duration-[2s] group-hover:scale-105 origin-center","priority":true}],["$","div",null,{"className":"absolute inset-0 ring-1 ring-inset ring-white/10 rounded-sm pointer-events-none"}],"$Lf"]}]]}],"$L10","$L11"]}]]}],"$L12"]}]]}]
+f:["$","div",null,{"className":"absolute inset-y-0 right-0 w-12 bg-linear-to-l from-black/40 to-transparent pointer-events-none"}]
+10:["$","div",null,{"className":"space-y-4","children":[["$","div",null,{"className":"flex items-center gap-4 text-xs font-mono uppercase tracking-widest text-zinc-400","children":[["$","span",null,{"children":2026}],["$","span",null,{"className":"w-8 h-px bg-white/20"}],["$","span",null,{"children":[8," Tracks"]}]]}],["$","h1",null,{"className":"font-serif text-5xl md:text-6xl font-light tracking-tighter leading-none","children":"The Seeds of Chaos"}]]}]
+13:T654,M23.994 6.124a9.23 9.23 0 00-.24-2.19c-.317-1.31-1.062-2.31-2.18-3.043a5.022 5.022 0 00-1.877-.726 10.496 10.496 0 00-1.564-.15c-.04-.003-.083-.01-.124-.013H5.986c-.152.01-.303.017-.455.026-.747.043-1.49.123-2.193.4-1.336.53-2.3 1.452-2.865 2.78-.192.448-.292.925-.363 1.408-.056.392-.088.785-.1 1.18 0 .032-.007.062-.01.093v12.223c.01.14.017.283.027.424.05.815.154 1.624.497 2.373.65 1.42 1.738 2.353 3.234 2.801.42.127.856.187 1.293.228.555.053 1.11.06 1.667.06h11.03a12.5 12.5 0 001.57-.1c.822-.106 1.596-.35 2.295-.81a5.046 5.046 0 001.88-2.207c.186-.42.293-.87.37-1.324.113-.675.138-1.358.137-2.04-.002-3.8 0-7.595-.003-11.393zm-6.423 3.99v5.712c0 .417-.058.827-.244 1.206-.29.59-.76.962-1.388 1.14-.35.1-.706.157-1.07.173-.95.045-1.773-.6-1.943-1.536a1.88 1.88 0 011.038-2.022c.323-.16.67-.25 1.018-.324.378-.082.758-.153 1.134-.24.274-.063.457-.23.51-.516a.904.904 0 00.02-.193c0-1.815 0-3.63-.002-5.443a.725.725 0 00-.026-.185c-.04-.15-.15-.243-.304-.234-.16.01-.318.035-.475.066-.76.15-1.52.303-2.28.456l-2.325.47-1.374.278c-.016.003-.032.01-.048.013-.277.077-.377.203-.39.49-.002.042 0 .086 0 .13-.002 2.602 0 5.204-.003 7.805 0 .42-.047.836-.215 1.227-.278.64-.77 1.04-1.434 1.233-.35.1-.71.16-1.075.172-.96.036-1.755-.6-1.92-1.544-.14-.812.23-1.685 1.154-2.075.357-.15.73-.232 1.108-.31.287-.06.575-.116.86-.177.383-.083.583-.323.6-.714v-.15c0-2.96 0-5.922.002-8.882 0-.123.013-.25.042-.37.07-.285.273-.448.546-.518.255-.066.515-.112.774-.165.733-.15 1.466-.296 2.2-.444l2.27-.46c.67-.134 1.34-.27 2.01-.403.22-.043.442-.088.663-.106.31-.025.523.17.554.482.008.073.012.148.012.223.002 1.91.002 3.822 0 5.732z11:["$","div",null,{"className":"mt-12 pt-8 border-t border-white/5","children":[["$","h3",null,{"className":"text-[10px] uppercase font-mono tracking-[0.3em] text-zinc-400 mb-6","children":"Listen on"}],["$","div",null,{"className":"flex flex-wrap gap-4","children":[["$","a","Spotify",{"href":"https://open.spotify.com/album/02ytzdzvdkdwwo0hqruCO0","target":"_blank","rel":"noopener noreferrer","className":"group flex items-center justify-center w-12 h-12 rounded-full border border-white/10 bg-black/40 backdrop-blur-sm hover:border-white/40 hover:bg-white/5 transition-all duration-300","title":"Spotify","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","role":"img","viewBox":"0 0 24 24","className":"w-5 h-5 text-zinc-400 group-hover:text-zinc-100 transition-colors hover:text-[#1DB954]","aria-hidden":true,"children":["$undefined",[["$","path","0",{"d":"M12 0C5.4 0 0 5.4 0 12s5.4 12 12 12 12-5.4 12-12S18.66 0 12 0zm5.521 17.34c-.24.359-.66.48-1.021.24-2.82-1.74-6.36-2.101-10.561-1.141-.418.122-.779-.179-.899-.539-.12-.421.18-.78.54-.9 4.56-1.021 8.52-.6 11.64 1.32.42.18.479.659.301 1.02zm1.44-3.3c-.301.42-.841.6-1.262.3-3.239-1.98-8.159-2.58-11.939-1.38-.479.12-1.02-.12-1.14-.6-.12-.48.12-1.021.6-1.141C9.6 9.9 15 10.561 18.72 12.84c.361.181.54.78.241 1.2zm.12-3.36C15.24 8.4 8.82 8.16 5.16 9.301c-.6.179-1.2-.181-1.38-.721-.18-.601.18-1.2.72-1.381 4.26-1.26 11.28-1.02 15.721 1.621.539.3.719 1.02.419 1.56-.299.421-1.02.599-1.559.3z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],["$","a","Apple Music",{"href":"https://music.apple.com/us/album/the-seeds-of-chaos/1882029274","target":"_blank","rel":"noopener noreferrer","className":"group flex items-center justify-center w-12 h-12 rounded-full border border-white/10 bg-black/40 backdrop-blur-sm hover:border-white/40 hover:bg-white/5 transition-all duration-300","title":"Apple Music","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","role":"img","viewBox":"0 0 24 24","className":"w-5 h-5 text-zinc-400 group-hover:text-zinc-100 transition-colors hover:text-[#FA2C59]","aria-hidden":true,"children":["$undefined",[["$","path","0",{"d":"$13","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}],"$L14"]}]]}]
+15:T4c2,
+    little orchids, all my daughters
+    starved for sunlight, and for water
+    shrouded in a veil of sleep
+    we sweep the bridges, roam the streets
+    acres far the eye can see
+    fields of courage, in our need
+    hear our murmurs, hear our pleas
+    peaceful, as we plant the seed
+
+    with no clouds and a burning sky
+    there's no place to live, nor to stay alive
+    distant howls, rumbling in the far
+    seeds of chaos, what we are
+
+    build our network, underground
+    newfound freedom, here abounds
+    set the controls for the sun
+    to prepare for our return
+    as we hide, our roots grow deep 
+    while our surface brothers weep
+    from the darkness, we will crawl
+    now begins the future's sprawl
+
+    with no clouds and a burning sky
+    there's no place to live, nor to stay alive
+    distant howls, rumbling in the far
+    seeds of chaos, what we are
+
+    with no clouds and a burning sky
+    there's no place to live, nor to stay alive
+    hiding in the bush, there's a jaguar
+    there's a lot for sale, at the grand bazaar
+    with no clouds and a burning sky
+    there's no place to live, nor to stay alive
+    distant howls, rumbling in the far
+    seeds of chaos, what we are
+    12:["$","main",null,{"className":"w-full lg:w-[55%] xl:w-[60%] p-8 md:p-16 xl:p-24 overflow-y-auto","children":["$","div",null,{"className":"max-w-3xl","children":[["$","h2",null,{"className":"text-sm font-sans uppercase tracking-[0.3em] text-zinc-400 mb-12 flex items-center gap-4","children":["Tracklist & Lyrics ",["$","span",null,{"className":"flex-1 h-px bg-white/5"}]]}],["$","div",null,{"className":"space-y-12 animate-fade-in-up delay-200","children":[["$","div","wolves",{"className":"group flex flex-col pb-8 border-b border-white/5 last:border-0 relative","children":["$","div",null,{"className":"flex items-start gap-6 lg:gap-8","children":[["$","span",null,{"className":"text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0","children":"01"}],["$","div",null,{"className":"flex-1","children":["$","details",null,{"className":"w-full [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"text-2xl md:text-3xl font-serif font-light tracking-tight cursor-pointer hover:text-zinc-300 transition-colors list-none outline-none flex items-center justify-between","children":["Wolves",["$","svg",null,{"className":"w-5 h-5 opacity-40 group-hover:opacity-100 transition-opacity transform group-details-open:-scale-100","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M19 9l-7 7-7-7"}]}]]}],["$","div",null,{"className":"mt-8 text-zinc-400 font-sans text-sm/loose md:text-base/loose tracking-wide whitespace-pre-wrap pl-0 md:pl-4 border-l-0 md:border-l border-white/10","children":"\n    little cubs\n    winter cold\n    torn down homes\n    hearts grow old\n\n    silent running\n    grow your plants\n    execute them\n    reclaim all your land\n\n    wolves\n    prowling through the night\n    hunters\n    growling in their plight\n\n    supermarket\n    frozen paws\n    prey no more \n    sharpened claws\n\n    wolves\n    prowling through the night\n    hunters\n    growling in their plight\n\n    howls\n    that echo in the night\n    whispers of a future\n    still in sight \n    wolves\n    searching for their might\n    as they cry tonight\n    (with the tears blinding their eyes)\n    wolves\n\n    howls\n    that echo in the night\n    whispers of a future\n    still in sight \n    wolves\n    searching for their might\n    as they cry tonight\n    (with the tears blinding their eyes\n    wolves\n    oh, these wolves \n    "}]]}]}]]}]}],["$","div","the-seeds-of-chaos",{"className":"group flex flex-col pb-8 border-b border-white/5 last:border-0 relative","children":["$","div",null,{"className":"flex items-start gap-6 lg:gap-8","children":[["$","span",null,{"className":"text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0","children":"02"}],["$","div",null,{"className":"flex-1","children":["$","details",null,{"className":"w-full [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"text-2xl md:text-3xl font-serif font-light tracking-tight cursor-pointer hover:text-zinc-300 transition-colors list-none outline-none flex items-center justify-between","children":["The Seeds of Chaos",["$","svg",null,{"className":"w-5 h-5 opacity-40 group-hover:opacity-100 transition-opacity transform group-details-open:-scale-100","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M19 9l-7 7-7-7"}]}]]}],["$","div",null,{"className":"mt-8 text-zinc-400 font-sans text-sm/loose md:text-base/loose tracking-wide whitespace-pre-wrap pl-0 md:pl-4 border-l-0 md:border-l border-white/10","children":"$15"}]]}]}]]}]}],"$L16","$L17","$L18","$L19","$L1a","$L1b"]}]]}]}]
+14:["$","a","Youtube Music",{"href":"https://music.youtube.com/playlist?list=OLAK5uy_kRwBL-TVI8vODvs-uLLiHxafp0_K_Ul2o","target":"_blank","rel":"noopener noreferrer","className":"group flex items-center justify-center w-12 h-12 rounded-full border border-white/10 bg-black/40 backdrop-blur-sm hover:border-white/40 hover:bg-white/5 transition-all duration-300","title":"Youtube Music","children":["$","svg",null,{"stroke":"currentColor","fill":"currentColor","strokeWidth":"0","role":"img","viewBox":"0 0 24 24","className":"w-5 h-5 text-zinc-400 group-hover:text-zinc-100 transition-colors hover:text-[#FF0000]","aria-hidden":true,"children":["$undefined",[["$","path","0",{"d":"M23.498 6.186a3.016 3.016 0 0 0-2.122-2.136C19.505 3.545 12 3.545 12 3.545s-7.505 0-9.377.505A3.017 3.017 0 0 0 .502 6.186C0 8.07 0 12 0 12s0 3.93.502 5.814a3.016 3.016 0 0 0 2.122 2.136c1.871.505 9.376.505 9.376.505s7.505 0 9.377-.505a3.015 3.015 0 0 0 2.122-2.136C24 15.93 24 12 24 12s0-3.93-.502-5.814zM9.545 15.568V8.432L15.818 12l-6.273 3.568z","children":[]}]]],"style":{"color":"$undefined"},"height":"1em","width":"1em","xmlns":"http://www.w3.org/2000/svg"}]}]
+1c:T50e,
+    the truth has been disproved
+    and the lies are spreading freely
+    like a fire through the forest
+    tickling flames that char the trees
+
+    with the fumes that carve the grooves
+    like the fool, I now see clearly
+    how the wires wound the worries
+    fickle games that part our fears
+
+    gravity
+    see the apple, now my sky is bright
+    under the tree
+    oh so supple, bow before the light
+    depravity
+    burn the chapel, set the dawn alight
+    a bed with flees
+    powers toppled, now we set the noose tight
+
+    with the youth under the hoofs
+    and the fly swarms ever nearer
+    as the mires drown the towers
+    brittle claims follow the fees
+
+    cruel jesters line the roofs
+    acid pools tear our careers down
+    with the plyers round our necks
+    there's nothing left for us to shear
+
+    gravity
+    see the apple, now my sky is bright
+    under the tree
+    oh so supple, bow before the light
+    depravity
+    burn the chapel, set the dawn alight
+    a bed with flees
+    powers toppled, now we set the noose tight
+
+    gravity
+    see the apple, now my sky is bright
+    under the tree
+    oh so supple, bow before the light
+    depravity
+    burn the chapel, set the dawn alight
+    a bed with flees
+    powers toppled, now we set the noose tight
+    16:["$","div","apple",{"className":"group flex flex-col pb-8 border-b border-white/5 last:border-0 relative","children":["$","div",null,{"className":"flex items-start gap-6 lg:gap-8","children":[["$","span",null,{"className":"text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0","children":"03"}],["$","div",null,{"className":"flex-1","children":["$","details",null,{"className":"w-full [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"text-2xl md:text-3xl font-serif font-light tracking-tight cursor-pointer hover:text-zinc-300 transition-colors list-none outline-none flex items-center justify-between","children":["Apple",["$","svg",null,{"className":"w-5 h-5 opacity-40 group-hover:opacity-100 transition-opacity transform group-details-open:-scale-100","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M19 9l-7 7-7-7"}]}]]}],["$","div",null,{"className":"mt-8 text-zinc-400 font-sans text-sm/loose md:text-base/loose tracking-wide whitespace-pre-wrap pl-0 md:pl-4 border-l-0 md:border-l border-white/10","children":"$1c"}]]}]}]]}]}]
+17:["$","div","the-sound-of-moosic",{"className":"group flex flex-col pb-8 border-b border-white/5 last:border-0 relative","children":["$","div",null,{"className":"flex items-start gap-6 lg:gap-8","children":[["$","span",null,{"className":"text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0","children":"04"}],["$","div",null,{"className":"flex-1","children":["$","details",null,{"className":"w-full [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"text-2xl md:text-3xl font-serif font-light tracking-tight cursor-pointer hover:text-zinc-300 transition-colors list-none outline-none flex items-center justify-between","children":["The Sound of Moosic",["$","svg",null,{"className":"w-5 h-5 opacity-40 group-hover:opacity-100 transition-opacity transform group-details-open:-scale-100","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M19 9l-7 7-7-7"}]}]]}],["$","div",null,{"className":"mt-8 text-zinc-400 font-sans text-sm/loose md:text-base/loose tracking-wide whitespace-pre-wrap pl-0 md:pl-4 border-l-0 md:border-l border-white/10","children":"\n    ...\n    "}]]}]}]]}]}]
+18:["$","div","counting-sheep",{"className":"group flex flex-col pb-8 border-b border-white/5 last:border-0 relative","children":["$","div",null,{"className":"flex items-start gap-6 lg:gap-8","children":[["$","span",null,{"className":"text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0","children":"05"}],["$","div",null,{"className":"flex-1","children":["$","details",null,{"className":"w-full [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"text-2xl md:text-3xl font-serif font-light tracking-tight cursor-pointer hover:text-zinc-300 transition-colors list-none outline-none flex items-center justify-between","children":["Counting Sheep",["$","svg",null,{"className":"w-5 h-5 opacity-40 group-hover:opacity-100 transition-opacity transform group-details-open:-scale-100","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M19 9l-7 7-7-7"}]}]]}],["$","div",null,{"className":"mt-8 text-zinc-400 font-sans text-sm/loose md:text-base/loose tracking-wide whitespace-pre-wrap pl-0 md:pl-4 border-l-0 md:border-l border-white/10","children":"\n    global warming\n    spoils the profit\n    greedy farming\n    health deficit\n    water table\n    ancient fables\n    forbidden knowledge\n    our brains disabled\n\n    under the sun\n    under the heat\n    burn the planet\n    burn the peat\n\n    another chance\n    take to the stars\n    a hostile world\n    surviving Mars\n    not everyone\n    will make the cut \n    just earn enough\n    if not, tough luck\n\n    there is no space\n    on planet B\n    the poor will stay\n    in purgatory\n\n    under the sun\n    under the heat\n    burn the planet\n    burn the peat\n    under the sun\n    under the heat\n    burn the planet\n    our scorching feet\n\n    under the sun\n    under the heat\n    burn the planet\n    burn the peat\n    under the sun\n    under the heat\n    burn the planet\n    our scorching feet\n\n    lost in the maelstrom \n    afloat by counting sheep \n    until there are no forests\n    and now there are no sheep\n    "}]]}]}]]}]}]
+1d:T5be,
+    in search of sacred toilet paper 
+    your worship of material goods
+    your wallet voted to get tapered
+    now you search the trash for food
+
+    discard your welfare, common sense 
+    now segregation's your defense
+    no wonder that you're still so dense
+    when stupid is the best offense
+
+    sinners 
+    they crave autonomy 
+    until they get free reign
+    and then crash the economy 
+    sinners 
+    full of hypocrisy 
+    they like to pass out judgement 
+    but then beg for mercy
+
+    you spread the teachings of your book
+    and hold it high above our heads 
+    to stay obedient, on the hook
+    these wise words that you've never read
+
+    your progress is in perfect tense
+    now shed the cloak with no pretence
+    your doorstep is the far extent
+    the furthest that you've ever went
+
+    sinners 
+    they crave autonomy 
+    until they get free reign
+    and then crash the economy 
+    sinners 
+    full of hypocrisy 
+    they like to pass out judgement 
+    but then beg for mercy 
+
+    sinners 
+    they crave autonomy 
+    until they get free reign
+    and then crash the economy 
+    sinners 
+    full of hypocrisy 
+    they like to pass out judgement 
+    but then beg for mercy 
+
+    sinners
+    they drown in ecstasy
+    but when the high wears off
+    they're swimming in their master's pee
+    they think they're winners
+    it's always me me me
+    they get ahead by pushing others
+    but deep down its simple jealousy 
+    19:["$","div","sinners",{"className":"group flex flex-col pb-8 border-b border-white/5 last:border-0 relative","children":["$","div",null,{"className":"flex items-start gap-6 lg:gap-8","children":[["$","span",null,{"className":"text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0","children":"06"}],["$","div",null,{"className":"flex-1","children":["$","details",null,{"className":"w-full [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"text-2xl md:text-3xl font-serif font-light tracking-tight cursor-pointer hover:text-zinc-300 transition-colors list-none outline-none flex items-center justify-between","children":["Sinners",["$","svg",null,{"className":"w-5 h-5 opacity-40 group-hover:opacity-100 transition-opacity transform group-details-open:-scale-100","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M19 9l-7 7-7-7"}]}]]}],["$","div",null,{"className":"mt-8 text-zinc-400 font-sans text-sm/loose md:text-base/loose tracking-wide whitespace-pre-wrap pl-0 md:pl-4 border-l-0 md:border-l border-white/10","children":"$1d"}]]}]}]]}]}]
+1e:T4cb,
+    look over your shoulder 
+    and squint at the shade
+    for the hangman has come 
+    to demand that you pay
+    emerged from the shadows 
+    a towering threat
+    but the villain is you
+    with the foul smell of death
+
+    I know the pictures
+    you hang on your wall
+    your secrets to keep
+    that you hide from us all
+    the gold in your teeth
+    and the watch by your bed
+    the ring on your finger
+    the photos in your cabinet
+
+    out in the open 
+    you try to cry wolf
+    you plead for redemption 
+    your sins, all absolved
+    the clothes, once your pride
+    now a burden on your shoulders
+    what you hid deep inside 
+    one more case in our folders
+
+    oh I know what you've done 
+    from the papers I've read 
+    and I've heard the comments 
+    that wish you were dead
+    the horrors you've committed 
+    from which you chose to flee
+    oh they wish you were dead 
+    and I tend to agree
+
+    across the sea
+    you thought you were safe
+    and you spent all the money 
+    you stole from their graves
+    you say you were a victim 
+    that was told what to do 
+    maybe I'm also a victim then
+    cause now I'm doing it too
+
+    justice
+    justice
+    justice 
+    justice 
+    1a:["$","div","when-the-hangman-comes",{"className":"group flex flex-col pb-8 border-b border-white/5 last:border-0 relative","children":["$","div",null,{"className":"flex items-start gap-6 lg:gap-8","children":[["$","span",null,{"className":"text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0","children":"07"}],["$","div",null,{"className":"flex-1","children":["$","details",null,{"className":"w-full [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"text-2xl md:text-3xl font-serif font-light tracking-tight cursor-pointer hover:text-zinc-300 transition-colors list-none outline-none flex items-center justify-between","children":["When the Hangman Comes",["$","svg",null,{"className":"w-5 h-5 opacity-40 group-hover:opacity-100 transition-opacity transform group-details-open:-scale-100","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M19 9l-7 7-7-7"}]}]]}],["$","div",null,{"className":"mt-8 text-zinc-400 font-sans text-sm/loose md:text-base/loose tracking-wide whitespace-pre-wrap pl-0 md:pl-4 border-l-0 md:border-l border-white/10","children":"$1e"}]]}]}]]}]}]
+1f:T439,
+    you're at a party 
+    and it's getting late
+    and in your dazed out peddling 
+    you knock down a vase
+    from the Ming dynasty 
+    it shatters like a plate
+    and like a newborn fledgling 
+    you take off with haste
+
+    flee
+    you've got to leave this place
+    as fast as you can 
+    to avoid disgrace
+
+    run
+    we will pick you up tonight
+    and you will not lose
+    face
+    you'll be home in time
+    we are the saviors of grace
+
+    and on the next morning
+    you receive a text from the host 
+    and he tells you not to worry
+    the vase must have got lost in the crowd
+    but a few weeks later 
+    you turn on the news
+    and see the host has been arrested 
+    for insurance fraud
+
+    the vase
+    it was a counterfeit
+    but our taxi service 
+    helped you anyway 
+
+    run
+    we will pick you up tonight
+    and you will not lose
+    face
+    you'll be home in time
+    we are the saviors of grace
+
+    run
+    we did pick you up that night
+    and you did not lose
+    face
+    you were home in time
+    we were the saviors of grace
+    1b:["$","div","saviors-of-grace",{"className":"group flex flex-col pb-8 border-b border-white/5 last:border-0 relative","children":["$","div",null,{"className":"flex items-start gap-6 lg:gap-8","children":[["$","span",null,{"className":"text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0","children":"08"}],["$","div",null,{"className":"flex-1","children":["$","details",null,{"className":"w-full [&_summary::-webkit-details-marker]:hidden","children":[["$","summary",null,{"className":"text-2xl md:text-3xl font-serif font-light tracking-tight cursor-pointer hover:text-zinc-300 transition-colors list-none outline-none flex items-center justify-between","children":["Saviors of Grace",["$","svg",null,{"className":"w-5 h-5 opacity-40 group-hover:opacity-100 transition-opacity transform group-details-open:-scale-100","fill":"none","viewBox":"0 0 24 24","stroke":"currentColor","children":["$","path",null,{"strokeLinecap":"round","strokeLinejoin":"round","strokeWidth":1,"d":"M19 9l-7 7-7-7"}]}]]}],["$","div",null,{"className":"mt-8 text-zinc-400 font-sans text-sm/loose md:text-base/loose tracking-wide whitespace-pre-wrap pl-0 md:pl-4 border-l-0 md:border-l border-white/10","children":"$1f"}]]}]}]]}]}]
+9:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+20:I[27201,["/_next/static/chunks/ff1a16fafef87110.js","/_next/static/chunks/d2be314c3ece3fbe.js"],"IconMark"]
+7:null
+b:[["$","title","0",{"children":"The Seeds of Chaos — 2026"}],["$","meta","1",{"name":"description","content":"Official website of Wholesale Tuna, featuring lyrics and album cover art."}],["$","link","2",{"rel":"icon","href":"/favicon.ico?favicon.9bfc1379.ico","sizes":"256x256","type":"image/x-icon"}],["$","$L20","3",{}]]
