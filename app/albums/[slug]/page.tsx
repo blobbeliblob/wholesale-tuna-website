@@ -60,19 +60,46 @@ export default async function AlbumPage({ params }: { params: Promise<{ slug: st
           </div>
 
           <div className="flex flex-col justify-center flex-1 animate-fade-in-up">
-            <div className="relative aspect-square w-full max-w-lg shadow-[0_30px_60px_-15px_rgba(0,0,0,0.8)] rounded-sm overflow-hidden mb-8 group bg-transparent">
-              <Image 
-                src={album.cover} 
-                alt={`${album.title} cover`} 
-                fill 
-                className="object-contain transition-transform duration-[2s] group-hover:scale-105 origin-center"
-                priority
-              />
-              <div className="absolute inset-0 ring-1 ring-inset ring-white/10 rounded-sm pointer-events-none" />
+            <div className="relative aspect-square w-full max-w-lg mb-8 group perspective-[1000px]">
+              {/* Vinyl Record */}
+              <div className="absolute inset-0 z-0 flex items-center justify-center transition-all duration-1000 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:translate-x-[35%] group-hover:rotate-[15deg] md:group-hover:translate-x-[45%] xl:group-hover:translate-x-[55%]">
+                <div className="relative w-[96%] h-[96%] rounded-full bg-zinc-950 shadow-[0_0_30px_rgba(0,0,0,0.8)] border border-zinc-800 flex items-center justify-center">
+                  {/* Vinyl Grooves */}
+                  <div className="absolute inset-1 rounded-full border border-white/[0.06]"></div>
+                  <div className="absolute inset-3 rounded-full border border-white/[0.08]"></div>
+                  <div className="absolute inset-5 rounded-full border border-white/[0.04]"></div>
+                  <div className="absolute inset-8 rounded-full border border-white/[0.10]"></div>
+                  <div className="absolute inset-12 rounded-full border border-white/[0.06]"></div>
+                  <div className="absolute inset-16 rounded-full border border-white/[0.08]"></div>
+                  <div className="absolute inset-20 rounded-full border border-white/[0.04]"></div>
+                  <div className="absolute inset-24 rounded-full border border-white/[0.10]"></div>
+                  <div className="absolute inset-28 rounded-full border border-white/[0.06]"></div>
+                  
+                  {/* Vinyl Label */}
+                  <div className="relative w-[34%] h-[34%] rounded-full border border-zinc-700 overflow-hidden shadow-inner bg-zinc-900">
+                    <Image src={album.cover} alt="Vinyl Label" fill className="object-cover opacity-60" />
+                    {/* Center Hole */}
+                    <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-3 h-3 bg-black rounded-full shadow-inner border border-zinc-800/50" />
+                  </div>
+                </div>
+              </div>
+
+              {/* Album Sleeve / Cover */}
+              <div className="relative z-10 w-full h-full shadow-[0_30px_60px_-15px_rgba(0,0,0,0.8)] rounded-sm overflow-hidden bg-black transition-transform duration-1000 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:-translate-x-2 md:group-hover:-translate-x-4">
+                <Image 
+                  src={album.cover} 
+                  alt={`${album.title} cover`} 
+                  fill 
+                  className="object-contain transition-transform duration-[2s] group-hover:scale-105 origin-center"
+                  priority
+                />
+                <div className="absolute inset-0 ring-1 ring-inset ring-white/10 rounded-sm pointer-events-none" />
+                <div className="absolute inset-y-0 right-0 w-12 bg-gradient-to-l from-black/40 to-transparent pointer-events-none" />
+              </div>
             </div>
 
             <div className="space-y-4">
-              <div className="flex items-center gap-4 text-xs font-mono uppercase tracking-widest text-zinc-500">
+              <div className="flex items-center gap-4 text-xs font-mono uppercase tracking-widest text-zinc-400">
                 <span>{album.year}</span>
                 <span className="w-8 h-[1px] bg-white/20"></span>
                 <span>{album.tracks.length} Tracks</span>
@@ -83,7 +110,7 @@ export default async function AlbumPage({ params }: { params: Promise<{ slug: st
             {/* Listen Links */}
             {album.links && album.links.length > 0 && (
               <div className="mt-12 pt-8 border-t border-white/5">
-                <h3 className="text-[10px] uppercase font-mono tracking-[0.3em] text-zinc-600 mb-6">Listen on</h3>
+                <h3 className="text-[10px] uppercase font-mono tracking-[0.3em] text-zinc-400 mb-6">Listen on</h3>
                 <div className="flex flex-wrap gap-4">
                   {album.links.map((l) => (
                     <a
@@ -106,7 +133,7 @@ export default async function AlbumPage({ params }: { params: Promise<{ slug: st
         {/* Right Side: Scrollable Tracks & Lyrics */}
         <main className="w-full lg:w-[55%] xl:w-[60%] p-8 md:p-16 xl:p-24 overflow-y-auto">
           <div className="max-w-3xl">
-            <h2 className="text-sm font-sans uppercase tracking-[0.3em] text-zinc-600 mb-12 flex items-center gap-4">
+            <h2 className="text-sm font-sans uppercase tracking-[0.3em] text-zinc-400 mb-12 flex items-center gap-4">
               Tracklist & Lyrics <span className="flex-1 h-[1px] bg-white/5"></span>
             </h2>
 
@@ -118,7 +145,7 @@ export default async function AlbumPage({ params }: { params: Promise<{ slug: st
                 return (
                   <div key={t.id} className="group flex flex-col pb-8 border-b border-white/5 last:border-0 relative">
                     <div className="flex items-start gap-6 lg:gap-8">
-                      <span className="text-xl font-serif text-zinc-600 font-light italic w-8 text-right shrink-0">
+                      <span className="text-xl font-serif text-zinc-400 font-light italic w-8 text-right shrink-0">
                         {String(index + 1).padStart(2, '0')}
                       </span>
                       <div className="flex-1">
