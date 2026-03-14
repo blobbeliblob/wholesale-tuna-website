@@ -1,63 +1,69 @@
 @import "tailwindcss";
 
 :root {
-  --background: #0a0a0a;
-  --foreground: #e6e6e6;
-  --font-lato: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
-  --font-mono: ui-monospace, SFMono-Regular, Menlo, Monaco, "Roboto Mono", "Segoe UI Mono", monospace;
+  --background: #000000;
+  --foreground: #ffffff;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
-  font-family: var(--font-lato);
+  font-family: var(--font-inter), system-ui, sans-serif;
+  letter-spacing: -0.01em;
 }
 
-body {
-  font-size: 15px;
+h1, h2, h3, h4, h5, h6, .font-serif {
+  font-family: var(--font-playfair), Georgia, serif;
 }
 
-details {
-  border-radius: 6px;
+/* Custom Scrollbar for a premium feel */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
 }
-
-summary {
-  cursor: pointer;
-  list-style: none;
-  outline: none;
+::-webkit-scrollbar-track {
+  background: transparent;
 }
-
-summary:hover {
-  opacity: 0.95;
+::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.2);
+  border-radius: 10px;
 }
-
-summary::-webkit-details-marker {
-  display: none;
-}
-
-*::-webkit-scrollbar {
-  width: 10px;
-  height: 10px;
-}
-*::-webkit-scrollbar-track {
-  background: #071018;
-}
-*::-webkit-scrollbar-thumb {
-  background: #2f3740;
-  border-radius: 8px;
-  border: 2px solid #071018;
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.4);
 }
 
 * {
   scrollbar-width: thin;
-  scrollbar-color: #2f3740 #071018;
+  scrollbar-color: rgba(255, 255, 255, 0.2) transparent;
 }
 
-summary {
-  font-size: 1.05rem;
+/* Animations */
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
 
-.site-footer {
-  background: var(--background);
-  color: var(--foreground);
+.animate-fade-in-up {
+  animation: fade-in-up 0.8s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
+}
+
+.delay-100 { animation-delay: 100ms; }
+.delay-200 { animation-delay: 200ms; }
+.delay-300 { animation-delay: 300ms; }
+
+/* Details/Summary overrides */
+details > summary {
+  list-style: none;
+}
+details > summary::-webkit-details-marker {
+  display: none;
+}
+details[open] summary ~ * {
+  animation: fade-in-up 0.4s cubic-bezier(0.2, 0.8, 0.2, 1) forwards;
 }
