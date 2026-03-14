@@ -46,7 +46,7 @@ export default async function AlbumPage({ params }: { params: Promise<{ slug: st
       {/* Background Image Blur Overlay for Atmosphere */}
       <div className="fixed inset-0 z-0">
         <Image src={album.cover} alt="Background blur" fill className="object-cover opacity-10 blur-3xl scale-110 mix-blend-screen" />
-        <div className="absolute inset-0 bg-gradient-to-t from-black via-black/80 to-transparent" />
+        <div className="absolute inset-0 bg-linear-to-t from-black via-black/80 to-transparent" />
       </div>
 
       <div className="relative z-10 w-full min-h-screen flex flex-col lg:flex-row">
@@ -62,18 +62,18 @@ export default async function AlbumPage({ params }: { params: Promise<{ slug: st
           <div className="flex flex-col justify-center flex-1 animate-fade-in-up">
             <div className="relative aspect-square w-full max-w-lg mb-8 group perspective-[1000px]">
               {/* Vinyl Record */}
-              <div className="absolute inset-0 z-0 flex items-center justify-center transition-all duration-1000 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:translate-x-[35%] group-hover:rotate-[15deg] md:group-hover:translate-x-[45%] xl:group-hover:translate-x-[55%]">
+              <div className="absolute inset-0 z-0 flex items-center justify-center transition-all duration-1000 ease-[cubic-bezier(0.2,0.8,0.2,1)] group-hover:translate-x-[35%] group-hover:rotate-15 md:group-hover:translate-x-[45%] xl:group-hover:translate-x-[55%]">
                 <div className="relative w-[96%] h-[96%] rounded-full bg-zinc-950 shadow-[0_0_30px_rgba(0,0,0,0.8)] border border-zinc-800 flex items-center justify-center">
                   {/* Vinyl Grooves */}
-                  <div className="absolute inset-1 rounded-full border border-white/[0.06]"></div>
-                  <div className="absolute inset-3 rounded-full border border-white/[0.08]"></div>
-                  <div className="absolute inset-5 rounded-full border border-white/[0.04]"></div>
-                  <div className="absolute inset-8 rounded-full border border-white/[0.10]"></div>
-                  <div className="absolute inset-12 rounded-full border border-white/[0.06]"></div>
-                  <div className="absolute inset-16 rounded-full border border-white/[0.08]"></div>
-                  <div className="absolute inset-20 rounded-full border border-white/[0.04]"></div>
-                  <div className="absolute inset-24 rounded-full border border-white/[0.10]"></div>
-                  <div className="absolute inset-28 rounded-full border border-white/[0.06]"></div>
+                  <div className="absolute inset-1 rounded-full border border-white/6"></div>
+                  <div className="absolute inset-3 rounded-full border border-white/8"></div>
+                  <div className="absolute inset-5 rounded-full border border-white/4"></div>
+                  <div className="absolute inset-8 rounded-full border border-white/10"></div>
+                  <div className="absolute inset-12 rounded-full border border-white/6"></div>
+                  <div className="absolute inset-16 rounded-full border border-white/8"></div>
+                  <div className="absolute inset-20 rounded-full border border-white/4"></div>
+                  <div className="absolute inset-24 rounded-full border border-white/10"></div>
+                  <div className="absolute inset-28 rounded-full border border-white/6"></div>
                   
                   {/* Vinyl Label */}
                   <div className="relative w-[34%] h-[34%] rounded-full border border-zinc-700 overflow-hidden shadow-inner bg-zinc-900">
@@ -94,14 +94,14 @@ export default async function AlbumPage({ params }: { params: Promise<{ slug: st
                   priority
                 />
                 <div className="absolute inset-0 ring-1 ring-inset ring-white/10 rounded-sm pointer-events-none" />
-                <div className="absolute inset-y-0 right-0 w-12 bg-gradient-to-l from-black/40 to-transparent pointer-events-none" />
+                <div className="absolute inset-y-0 right-0 w-12 bg-linear-to-l from-black/40 to-transparent pointer-events-none" />
               </div>
             </div>
 
             <div className="space-y-4">
               <div className="flex items-center gap-4 text-xs font-mono uppercase tracking-widest text-zinc-400">
                 <span>{album.year}</span>
-                <span className="w-8 h-[1px] bg-white/20"></span>
+                <span className="w-8 h-px bg-white/20"></span>
                 <span>{album.tracks.length} Tracks</span>
               </div>
               <h1 className="font-serif text-5xl md:text-6xl font-light tracking-tighter leading-none">{album.title}</h1>
@@ -134,7 +134,7 @@ export default async function AlbumPage({ params }: { params: Promise<{ slug: st
         <main className="w-full lg:w-[55%] xl:w-[60%] p-8 md:p-16 xl:p-24 overflow-y-auto">
           <div className="max-w-3xl">
             <h2 className="text-sm font-sans uppercase tracking-[0.3em] text-zinc-400 mb-12 flex items-center gap-4">
-              Tracklist & Lyrics <span className="flex-1 h-[1px] bg-white/5"></span>
+              Tracklist & Lyrics <span className="flex-1 h-px bg-white/5"></span>
             </h2>
 
             <div className="space-y-12 animate-fade-in-up delay-200">

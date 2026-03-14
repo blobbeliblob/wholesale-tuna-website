@@ -28,8 +28,8 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark scroll-smooth">
       <body className={`${playfair.variable} ${inter.variable} font-sans bg-black text-white antialiased selection:bg-white selection:text-black min-h-screen flex flex-col overflow-x-hidden`}>
-        <div className="fixed inset-0 z-[-1] bg-[radial-gradient(ellipse_at_top,_var(--tw-gradient-stops))] from-zinc-900/40 via-black to-black"></div>
-        <main className="flex-grow flex flex-col">
+        <div className="fixed inset-0 z-[-1] bg-[radial-gradient(ellipse_at_top,var(--tw-gradient-stops))] from-zinc-900/40 via-black to-black"></div>
+        <main className="grow flex flex-col">
           {children}
         </main>
 

@@ -44,7 +44,7 @@ export default function Home() {
             <div className={`w-full md:w-1/2 flex flex-col justify-center ${i % 2 !== 0 ? 'md:text-right md:items-end' : 'md:text-left md:items-start'}`}>
               <div className="flex items-center gap-4 mb-4 text-zinc-500 uppercase tracking-widest text-sm">
                 <span>{a.year}</span>
-                <span className="w-12 h-[1px] bg-zinc-700"></span>
+                <span className="w-12 h-px bg-zinc-700"></span>
                 <span>{a.tracks.length} Tracks</span>
               </div>
               <Link href={`/albums/${a.slug}`} className="block group/link">
